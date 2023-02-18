@@ -1,1 +1,5 @@
-#屏蔽系统更新
+##屏蔽ios更新
+host,gdmf.apple.com, reject
+host,mesu.apple.com, reject
+host,updates-http.cdn-apple.com, reject
+host,xp.apple.com, reject
