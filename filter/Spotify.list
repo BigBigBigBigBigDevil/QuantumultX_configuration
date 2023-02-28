@@ -1,6 +1,6 @@
 USER-AGENT,Spotify*
 ##musixmatcher->spotify歌词 
-HOST-SUFFIX,*.musixmatch.com
+HOST-SUFFIX,musixmatch.com
 HOST-SUFFIX,audio-ak-spotify-com.akamaized.net
 HOST-SUFFIX,byspotify.com
 HOST-SUFFIX,heads4-ak-spotify-com.akamaized.net
