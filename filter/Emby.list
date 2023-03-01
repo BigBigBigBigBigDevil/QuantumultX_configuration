@@ -1,4 +1,4 @@
-# Misakaf
+#Misakaf
 HOST-SUFFIX,misakaf.org
 #pornemby
 HOST-SUFFIX,pornemby.club
@@ -9,5 +9,7 @@ IP-CIDR, 38.94.109.35/28
 #拨浪鼓
 HOST-SUFFIX,speedx.one
 IP-CIDR,162.55.225.218/28
+#Misty
+HOST-SUFFIX,misty.ltd
 
 HOST-KEYWORD,emby
