@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/baimiao.js
 
 [rewrite_local]
 
-^https?:\/\/baimiao\.uzero\.cn\/api\/v\d\.user\/appLaunchWithUser$ url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/baimiao.js
+^https?:\/\/baimiao\.uzero\.cn\/api\/v\d\.user\/appLaunchWithUser$ url script-response-body https://raw.githubusercontent.com/BigBigBigBigBigDevil/QuantumultX_configuration/main/rewrite/baimiao.js
 
 [mitm] 
 
