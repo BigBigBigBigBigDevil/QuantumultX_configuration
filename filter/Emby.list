@@ -11,5 +11,7 @@ HOST-SUFFIX,speedx.one
 IP-CIDR,162.55.225.218/28
 #Misty
 HOST-SUFFIX,misty.ltd
+#二次元
+HOST-SUFFIX,media.nijigem.by
 
 HOST-KEYWORD,emby
