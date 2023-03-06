@@ -13,5 +13,7 @@ IP-CIDR,162.55.225.218/28
 HOST-SUFFIX,misty.ltd
 #二次元
 HOST-SUFFIX,media.nijigem.by
+#infinityfly
+HOST-SUFFIX,infinityfly.top
 
 HOST-KEYWORD,emby
