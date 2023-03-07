@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/itunes.js
 
 [rewrite_local]
 
-^http[s]?:\/\/buy.itunes.apple.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/itunes.js
+^http[s]?:\/\/buy.itunes.apple.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/BigBigBigBigBigDevil/QuantumultX_configuration/main/rewrite/Jsbz.js
 
 [mitm] 
 
