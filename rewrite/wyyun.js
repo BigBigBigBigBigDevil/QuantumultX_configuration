@@ -1,15 +1,6 @@
 /*
-脚本功能：网易云音乐听vip
-下载地址：appstore
-软件版本：所有
-脚本作者：伟人
-更新时间：2022-11-23
-问题反馈：QQ+55749353
-作者QQ:55749353
-QQ会员群：PY作者
-TG反馈群：https://t.me/WeiRenOvO
-TG频道群：https://t.me/WeiRenQAQ
-使用声明：⚠️此脚本仅供学习与交流，请勿转载与贩卖！⚠️⚠️⚠️
+网易云解锁
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js
 
 [rewrite_local]
 ^http[s]?:\/\/.+music.+(player\/url|playlist|entrance|\/eapi\/search\/).*$ url script-request-header https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js
