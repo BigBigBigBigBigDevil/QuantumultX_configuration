@@ -4,7 +4,7 @@ https://raw.githubusercontent.com/WeiRen0/Scripts/main/kw.js
 
 [rewrite_local]
 
-^http[s]?:\/\/.*kuwo.*(/vip/enc/user/vip|/a.p|/vip/v2/user/vip|/vip/v2/sysinfo|/vip/v2/theme|AdService/kaiping/|/music.pay|player/getStyleListByModel).*$ url script-response-body https://raw.githubusercontent.com/WeiRen0/Scripts/main/kw.js
+^http[s]?:\/\/.*kuwo.*(/vip/enc/user/vip|/a.p|/vip/v2/user/vip|/vip/v2/sysinfo|/vip/v2/theme|AdService/kaiping/|/music.pay|player/getStyleListByModel).*$ url script-response-body https://raw.githubusercontent.com/BigBigBigBigBigDevil/QuantumultX_configuration/main/rewrite/kw.js
 
 [mitm]
 hostname = *kuwo*
