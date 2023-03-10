@@ -3,7 +3,7 @@
 https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js
 
 [rewrite_local]
-^http[s]?:\/\/.+music.+(player\/url|playlist|entrance|\/eapi\/search\/).*$ url script-request-header https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js
+^http[s]?:\/\/.+music.+(player\/url|playlist|entrance|\/eapi\/search\/).*$ url script-request-header https://raw.githubusercontent.com/BigBigBigBigBigDevil/QuantumultX_configuration/main/rewrite/wyyun.js
 
 [mitm]
 hostname = *.music.163.com
