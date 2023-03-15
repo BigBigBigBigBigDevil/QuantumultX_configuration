@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Silimini.js
 
 [rewrite_local]
 
-^http[s]?:\/\/silimini.bigwinepot.com url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Silimini.js
+^http[s]?:\/\/silimini.bigwinepot.com url script-response-body https://raw.githubusercontent.com/BigBigBigBigBigDevil/QuantumultX_configuration/main/rewrite/Silimini.js
 
 [mitm] 
 
