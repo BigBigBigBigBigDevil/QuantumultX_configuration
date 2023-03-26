@@ -1,15 +1,4 @@
 #apple服务
-# NAME: Apple
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-03-26 02:08:13
-# HOST: 229
-# HOST-KEYWORD: 5
-# HOST-SUFFIX: 1544
-# HOST-WILDCARD: 7
-# IP-CIDR: 10
-# USER-AGENT: 7
-# TOTAL: 1802
 HOST,apps.apple.com,Apple
 HOST,a1.mzstatic.com,Apple
 HOST,a2.mzstatic.com,Apple
