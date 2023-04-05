@@ -1,4 +1,4 @@
-USER-AGENT,Spotify*
+USER-AGENT,Spotify*,Spotify
 ##----------------------
 #musixmatcher->spotify歌词 
 HOST-SUFFIX,musixmatch.com,Spotify
