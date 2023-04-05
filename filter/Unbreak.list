@@ -1,67 +1,67 @@
 # Unbreak 修正规则
 #https://github.com/DivineEngine/Profiles/blob/master/Quantumult/Filter/Unbreak.list
 # > General
-HOST,app.adjust.com
-HOST,app.appsflyer.com
-HOST,bdtj.tagtic.cn
+HOST,app.adjust.com,Unbreak 
+HOST,app.appsflyer.com,Unbreak
+HOST,bdtj.tagtic.cn,Unbreak
 # > Alibaba
-HOST,log.mmstat.com
-HOST,sycm.mmstat.com
+HOST,log.mmstat.com,Unbreak
+HOST,sycm.mmstat.com,Unbreak
 # > Google
-HOST-SUFFIX,blog.google // Google Blog
-HOST-SUFFIX,googletraveladservices.com // Google Flights
-HOST,clientservices.googleapis.com
-HOST,update.googleapis.com
+HOST-SUFFIX,blog.google ,Unbreak
+HOST-SUFFIX,googletraveladservices.com ,Unbreak
+HOST,clientservices.googleapis.com,Unbreak
+HOST,update.googleapis.com,Unbreak
 # >> Paramount+
-# HOST,pubads.g.doubleclick.net
+# HOST,pubads.g.doubleclick.net,Unbreak
 # > Tencent
-HOST,fairplay.l.qq.com
-HOST,livew.l.qq.com
-HOST,vd.l.qq.com
-HOST,vi.l.qq.com
+HOST,fairplay.l.qq.com,Unbreak
+HOST,livew.l.qq.com,Unbreak
+HOST,vd.l.qq.com,Unbreak
+HOST,vi.l.qq.com,Unbreak
 # > Strava
-HOST,analytics.strava.com
+HOST,analytics.strava.com,Unbreak
 # > Umeng
-HOST,msg.umeng.com
-HOST,msg.umengcloud.com
+HOST,msg.umeng.com,Unbreak
+HOST,msg.umengcloud.com,Unbreak
 #https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliuxiuzheng.list
 # > 苹果推送服务
-host-keyword, push.apple.com, direct
+host-keyword, push.apple.com,Unbreak
 # > 苹果时间同步
-host, time.apple.com, direct
+host, time.apple.com,Unbreak
 # > 苹果天气服务
-host-keyword, weather-edge.apple.com, direct
-host-keyword, weather-adge.apple.com, direct
-host-suffix, weather-data.apple.com, direct
-host-suffix, weather-map.apple.com, direct
-host-suffix, weather-analytics-events.apple.com, direct
+host-keyword, weather-edge.apple.com,Unbreak
+host-keyword, weather-adge.apple.com,Unbreak
+host-suffix, weather-data.apple.com,Unbreak
+host-suffix, weather-map.apple.com,Unbreak
+host-suffix, weather-analytics-events.apple.com,Unbreak
 # > 苹果内购服务
-host-keyword, buy.itunes.apple.com, direct
+host-keyword, buy.itunes.apple.com,Unbreak
 # > 苹果icloud
-host-keyword, icloud.com, direct
+host-keyword, icloud.com,Unbreak
 # > 苹果输入法相关服务
-host-keyword, api.smoot.apple.com, direct
-host-keyword, api.smoot.apple.cn, direct
+host-keyword, api.smoot.apple.com,Unbreak
+host-keyword, api.smoot.apple.cn,Unbreak
 # > 苹果iMessage服务
-host, init.ess.apple.com, direct
+host, init.ess.apple.com,Unbreak
 # > 苹果其他服务
-host-keyword, ssl.apple.com, direct
-host-keyword, humb.apple.com, direct
-host, smp-device-content.apple.com, direct
-host-keyword, api-adservices.apple.com, direct
-host-keyword, ls.apple.com, direct
-host-keyword, gsa.apple.com, direct
-host-keyword, ess.apple.com, direct
+host-keyword, ssl.apple.com,Unbreak
+host-keyword, humb.apple.com,Unbreak
+host, smp-device-content.apple.com,Unbreak
+host-keyword, api-adservices.apple.com,Unbreak
+host-keyword, ls.apple.com,Unbreak
+host-keyword, gsa.apple.com,Unbreak
+host-keyword, ess.apple.com,Unbreak
 
 # > QQ空间
-host-keyword, ctc.qzs.qzone.qq.com, direct
+host-keyword, ctc.qzs.qzone.qq.com,Unbreak
 
 # > 路由器后台
-ip-cidr, 192.168.0.1/24, direct
+ip-cidr, 192.168.0.1/24,Unbreak
 # > 天翼网关
-ip-cidr, 192.168.1.1/24, direct
+ip-cidr, 192.168.1.1/24,Unbreak
 
 # > 其他分流修正
-host-keyword, anti-ad.net, direct
+host-keyword, anti-ad.net,Unbreak
 
-host, ad.12306.cn, direct
+host, ad.12306.cn,Unbreak
