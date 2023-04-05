@@ -8552,8 +8552,8 @@ HOST-SUFFIX,prism.drivingkyoto.com,Privacy
 HOST-SUFFIX,prism.pandora.tv,Privacy
 HOST-SUFFIX,prism.raumgleiter.com,Privacy
 HOST-SUFFIX,-api.9gag.com,Privacy
-HOST-SUFFIX.outdoorsg.com,Privacy
-HOST-SUFFIXfriendly.netlify.app,Privacy
+HOST-SUFFIX,outdoorsg.com,Privacy
+HOST-SUFFIX,friendly.netlify.app,Privacy
 HOST-SUFFIX,private.roche.com,Privacy
 HOST-SUFFIX,privatebackendsntor-data.signed.search.authtoolbar-elasticbeanstalk.net.zooplus.de,Privacy
 HOST-SUFFIX,processor.asccommunications.com,Privacy
@@ -12729,7 +12729,7 @@ HOST-SUFFIX,toolbar-mailadministrator.legacy-priv-demo.mgmtmo.management.net.zoo
 HOST-SUFFIX,toolbar-profile.privategetter-priv.management.net.zooplus.de,Privacy
 HOST-SUFFIX,toolbar-redir.privategetter-priv.management-proxy.net.zooplus.de,Privacy
 HOST-SUFFIX,toolbar-search.development-apiserver-mgmt-privcgi.mgmtmo.management.net.zooplus.de,Privacy
-HOST-SUFFIX,toolbar-zooplus.decsr12-training.frontpagegw.net.zooplus.de,Privacy,Privacy
+HOST-SUFFIX,toolbar-zooplus.decsr12-training.frontpagegw.net.zooplus.de,Privacy
 HOST-SUFFIX,toolbar.legacy-priv.fw-webhotel-toolbar-gitlab.mgmtmo.management.net.zooplus.de,Privacy
 HOST-SUFFIX,toolbar.legacy-priv.fw-webhotel-toolbar.control.management.net.zooplus.de,Privacy
 HOST-SUFFIX,toolbar.legacy-priv.fw-webhotel-toolbar.mgmtmo-org.management.net.zooplus.de,Privacy
