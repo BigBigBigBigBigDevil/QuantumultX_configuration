@@ -1,10 +1,9 @@
-HOST-SUFFIX,supercell.com
-HOST-KEYWORD,supercell
+HOST-SUFFIX,supercell.com,SuperCell
+HOST-KEYWORD,supercell,SuperCell
 #部落冲突
-HOST-SUFFIX,clashofclans.com
-HOST-KEYWORD,clashofclans
+HOST-SUFFIX,clashofclans.com,SuperCell
+HOST-KEYWORD,clashofclans,SuperCell
 #皇室战争
-HOST-SUFFIX,clashroyale.com
-HOST-SUFFIX,clashroyaleapp.com
-HOST-KEYWORD,clashroyale
-
+HOST-SUFFIX,clashroyale.com,SuperCell
+HOST-SUFFIX,clashroyaleapp.com,SuperCell
+HOST-KEYWORD,clashroyale,SuperCell
