@@ -1,0 +1,15 @@
+#阿里云盘资源搜索
+host-suffix,yppan.com,proxy
+#卷毛鼠签到
+host-suffix,bot.impian.eu,proxy
+#cloudflare
+host-keyword,cloudflare.com,proxy
+#TMDB
+host-suffix,themoviedb.org,proxy
+#clash verge wiki
+host-suffix,metacubex.one,proxy
+#infuse开发者计划
+host-suffix,community.firecore.com,proxy
+host-suffix,firecore.com,proxy
+host-suffix,zdassets.com,proxy
+host-suffix,zendesk.com,proxy
