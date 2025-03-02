@@ -1,0 +1,11 @@
+hostname = duckduckgo.com
+# by->(必应)
+^https:\/\/duckduckgo.com\/\?q=by\+([^&]+).+ url 302 https://www.bing.com/search?q=$1&ensearch=1&FORM=BESBTB
+^https:\/\/duckduckgo.com\/\?q=([^+]+)\+by.+ url 302 https://www.bing.com/search?q=$1
+#bd->百度
+^https:\/\/duckduckgo.com\/\?q=bd\+([^&]+).+ url 302 https://www.baidu.com/s?wd=$1
+^https:\/\/duckduckgo.com\/\?q=((.(?!bd))+)\+bd.+ url 302 https://www.baidu.com/s?wd=$1
+#gh->github
+^https:\/\/duckduckgo.com\/\?q=gh\+([^&]+).+ url 302 https://github.com/search?q=$1
+#默认谷歌
+^https:\/\/duckduckgo.com\/\?q=([^&]+).+ url 302 https://www.google.com/search?q=$1

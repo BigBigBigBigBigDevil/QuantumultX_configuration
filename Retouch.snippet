@@ -1,0 +1,4 @@
+hostname = api.revenuecat.com
+
+^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/(.*?)*$) url script-response-body retouch.js
+^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/(.*?)*$) url script-request-header retouch.js
