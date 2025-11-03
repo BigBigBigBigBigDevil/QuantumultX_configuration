@@ -1,5 +1,6 @@
-##屏蔽ios更新
-host,gdmf.apple.com, reject
-host,mesu.apple.com, reject
-host,updates-http.cdn-apple.com, reject
-host,xp.apple.com, reject
+host,swdist.apple.com,REJECT
+host,swscan.apple.com,REJECT
+host,swcdn.apple.com,REJECT
+host,gdmf.apple.com,REJECT
+host,mesu.apple.com,REJECT
+host,xp.apple.com,REJECT
