@@ -1,0 +1,40 @@
+# 漫画源
+host,api.copy2000.online,HK
+host-suffix,baozimhcn.com,HK
+host-suffix,baozimh.com,HK
+# cdn
+host-suffix,cdn.jsdelivr.net,HK
+# anti-ad
+host-suffix,anti-ad.net,HK
+# 1111公费服求片
+host-suffix,xmsl.org,HK
+# 阿里云盘资源搜索
+host-suffix,yppan.com,HK
+# 卷毛鼠签到
+host-suffix,bot.impian.eu,HK
+# TMDB
+host-suffix,themoviedb.org,HK
+host-suffix,tmdb.org,HK
+# clash verge wiki
+host-suffix,metacubex.one,HK
+# infuse开发者计划
+host-suffix,community.firecore.com,HK
+host-suffix,firecore.com,HK
+host-suffix,zdassets.com,HK
+host-suffix,zendesk.com,HK
+# zlibrary
+host-keyword,library,HK
+# ytoo
+host-suffix,y-too.com,HK
+host-suffix,qtt-163cdn.com,HK
+# 花云
+host-suffix,flowercloud.net,HK
+host-keyword,api-huacloud,HK
+# WestData
+host-suffix,wd-gold.com,HK
+# linkcube
+host-keyword,linkcube,direct
+# trakt
+host-keyword,trakt,DIRECT
+host-suffix,dumanwu.com,HK
+host-suffix,rtx.al,HK
