@@ -2,3 +2,4 @@ host,fixcalendar.pages.dev,DIRECT
 host,weather-in-calendar.com,DIRECT
 host,amdc.alipay.com,DIRECT
 host,audid-api.taobao.com,DIRECT
+host-suffix,notionusercontent.com,Google服务
