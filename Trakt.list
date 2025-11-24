@@ -1,6 +1,4 @@
-host-keyword,trakt,DIRECT
-host-suffix,discourse-cdn.com,DIRECT
-host-suffix,noembed.com,DIRECT
-host-suffix,amazonaws.com,DIRECT
-host-suffix,dumanwu.com,HK
-host-suffix,rtx.al,HK
+host-keyword,trakt,Trakt
+host-suffix,discourse-cdn.com,Trakt
+host-suffix,noembed.com,Trakt
+host-suffix,amazonaws.com,Trakt
