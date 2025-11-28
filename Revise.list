@@ -28,3 +28,11 @@ host-suffix,zdassets.com,HK
 host-suffix,zendesk.com,HK
 # zlibrary
 host-keyword,library,HK
+# REJECT
+HOST,log-api.pangolin-sdk-toutiao-b.com,REJECT
+HOST,app-analytics-services.com,REJECT
+HOST,log.snssdk.com,REJECT
+# 农行vpn检测
+HOST,msmp.abchina.com.cn,REJECT
+# 防tg转圈
+IP-CIDR,95.161.76.100/31,REJECT
