@@ -12,8 +12,8 @@ host,api.copy2000.online,HK
 host-suffix,baozimhcn.com,HK
 host-suffix,baozimh.com,HK
 # cdn
-host,cdn.jsdelivr.net,PROXY
-host,cdn.cr-relay.com,PROXY
+host,cdn.jsdelivr.net,HK
+host,cdn.cr-relay.com,HK
 # anti-ad
 host-suffix,anti-ad.net,HK
 # TMDB
