@@ -32,6 +32,7 @@ host-keyword,library,HK
 host,secure.gravatar.com,HK
 host,film-show-ratings.p.rapidapi.com,HK
 host,movieweb.com,HK
+host,i2.wp.com,HK
 # REJECT
 HOST,log-api.pangolin-sdk-toutiao-b.com,REJECT
 HOST,app-analytics-services.com,REJECT
