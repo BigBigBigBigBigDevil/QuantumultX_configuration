@@ -28,6 +28,10 @@ host-suffix,zdassets.com,HK
 host-suffix,zendesk.com,HK
 # zlibrary
 host-keyword,library,HK
+# sofa time
+host,secure.gravatar.com,HK
+host,film-show-ratings.p.rapidapi.com,HK
+host,movieweb.com,HK
 # REJECT
 HOST,log-api.pangolin-sdk-toutiao-b.com,REJECT
 HOST,app-analytics-services.com,REJECT
