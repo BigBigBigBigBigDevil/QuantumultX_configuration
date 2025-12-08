@@ -19,6 +19,7 @@ host-suffix,anti-ad.net,HK
 # TMDB
 host-suffix,themoviedb.org,HK
 host-suffix,tmdb.org,HK
+host,ee.iva-api.com,HK
 # clash verge wiki
 host-suffix,metacubex.one,HK
 # infuse开发者计划
