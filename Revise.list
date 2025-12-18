@@ -35,6 +35,7 @@ host,film-show-ratings.p.rapidapi.com,HK
 host,movieweb.com,HK
 host,i2.wp.com,HK
 host-suffix,moviewebimages.com,HK
+host,m.imdb.com,HK
 # REJECT
 HOST,log-api.pangolin-sdk-toutiao-b.com,REJECT
 HOST,app-analytics-services.com,REJECT
