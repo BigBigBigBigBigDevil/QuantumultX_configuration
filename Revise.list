@@ -4,6 +4,9 @@ host,amdc.alipay.com,DIRECT
 host,audid-api.taobao.com,DIRECT
 host-suffix,notionusercontent.com,Google服务
 host,cn1.hcaptcha.com,DIRECT
+# grok
+host-keyword,xai,Google服务
+host-suffix,x.ai,Google服务
 # lemon8
 host-keyword,lemon8,TikTok
 host-suffix,neutral.ttwstatic.com,TikTok
