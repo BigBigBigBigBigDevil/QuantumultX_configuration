@@ -47,7 +47,7 @@ HOST,log.snssdk.com,REJECT
 # 农行vpn检测
 HOST,msmp.abchina.com.cn,REJECT
 # 防tg转圈
-IP-CIDR,95.161.76.100/31,REJECT
+# IP-CIDR,95.161.76.100/31,REJECT
 ip-cidr, 127.0.0.0/8, DIRECT
 ip-cidr, 192.168.0.0/16, DIRECT
 host-keyword, local, DIRECT
