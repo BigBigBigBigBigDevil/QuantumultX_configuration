@@ -1,11 +1,11 @@
 # PROXY
 host-suffix,duangks.com,Cloudflare
-host-suffix,notionusercontent.com,Google服务
+host-suffix,notionusercontent.com,Google
 host-suffix, fileball.app, Cloudflare
 host-suffix,receiptcheck.quantumult.app,Cloudflare
 # grok
-host-keyword,xai,Google服务
-host-suffix,x.ai,Google服务
+host-keyword,xai,Google
+host-suffix,x.ai,Google
 # lemon8
 host-keyword,lemon8,TikTok
 host-suffix,neutral.ttwstatic.com,TikTok
