@@ -1,4 +1,4 @@
-host,www.duangks.com,Cloudflare
+host-suffix,duangks.com,Cloudflare
 host,fixcalendar.pages.dev,DIRECT
 host,weather-in-calendar.com,DIRECT
 host,amdc.alipay.com,DIRECT
