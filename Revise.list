@@ -1,10 +1,8 @@
+# PROXY
 host-suffix,duangks.com,Cloudflare
-host,fixcalendar.pages.dev,DIRECT
-host,weather-in-calendar.com,DIRECT
-host,amdc.alipay.com,DIRECT
-host,audid-api.taobao.com,DIRECT
 host-suffix,notionusercontent.com,Google服务
-host,cn1.hcaptcha.com,DIRECT
+host-suffix, fileball.app, Cloudflare
+host-suffix,receiptcheck.quantumult.app,Cloudflare
 # grok
 host-keyword,xai,Google服务
 host-suffix,x.ai,Google服务
@@ -46,9 +44,13 @@ HOST,app-analytics-services.com,REJECT
 HOST,log.snssdk.com,REJECT
 # 农行vpn检测
 HOST,msmp.abchina.com.cn,REJECT
+# DIRECT
+host,cn1.hcaptcha.com,DIRECT
+host,fixcalendar.pages.dev,DIRECT
+host,weather-in-calendar.com,DIRECT
+host,amdc.alipay.com,DIRECT
+host,audid-api.taobao.com,DIRECT
 ip-cidr, 127.0.0.0/8, DIRECT
 ip-cidr, 192.168.0.0/16, DIRECT
 host-keyword, local, DIRECT
 host,api.revenuecat.com,DIRECT
-host-suffix, fileball.app, Cloudflare
-host-suffix,receiptcheck.quantumult.app,Cloudflare
