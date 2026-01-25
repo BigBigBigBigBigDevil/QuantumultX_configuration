@@ -3,8 +3,8 @@ host,cdn.v2ex.com,Cloudflare
 hsot,fastly.jsdelivr.net,Cloudflare
 host-suffix,duangks.com,Cloudflare
 host-suffix,notionusercontent.com,Google
-host-suffix, fileball.app, Cloudflare
-host-suffix,receiptcheck.quantumult.app,Cloudflare
+host-suffix,fileball.app, Cloudflare
+host-suffix,quantumult.app,Cloudflare
 # grok
 host-keyword,xai,Google
 host-suffix,x.ai,Google
