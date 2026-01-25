@@ -1,7 +1,7 @@
 # PROXY
 host-suffix,guatizi.com,Cloudflare
 host,cdn.v2ex.com,Cloudflare
-hsot,fastly.jsdelivr.net,Cloudflare
+host,fastly.jsdelivr.net,Cloudflare
 host-suffix,duangks.com,Cloudflare
 host-suffix,notionusercontent.com,Google
 host-suffix,fileball.app, Cloudflare
