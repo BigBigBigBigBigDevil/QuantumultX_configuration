@@ -1,4 +1,5 @@
 # PROXY
+host,xn--mes358aby2apfg.com,Cloudflare
 host,client.relay.crisp.chat,Cloudflare
 host-suffix,guatizi.com,Cloudflare
 host,cdn.v2ex.com,Cloudflare
