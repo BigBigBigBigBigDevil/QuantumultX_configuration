@@ -1,4 +1,5 @@
 # PROXY
+hsot,fastly.jsdelivr.net,Cloudflare
 host-suffix,duangks.com,Cloudflare
 host-suffix,notionusercontent.com,Google
 host-suffix, fileball.app, Cloudflare
