@@ -1,4 +1,5 @@
 # PROXY
+host-suffix,imdb.com,Cloudflare
 host-suffix,intercom.com,Cloudflare
 host,www.kuromis.com,Cloudflare
 host,client.relay.crisp.chat,Cloudflare
