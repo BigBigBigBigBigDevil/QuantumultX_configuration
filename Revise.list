@@ -1,4 +1,5 @@
 # PROXY
+host,m.media-amazon.com,Cloudflare
 host-suffix,imdb.com,Cloudflare
 host-suffix,intercom.com,Cloudflare
 host,www.kuromis.com,Cloudflare
