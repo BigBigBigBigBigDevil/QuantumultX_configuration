@@ -1,4 +1,5 @@
 # PROXY
+host,greasyfork.org,Cloudflare
 host,streaming-availability.p.rapidapi.com,Cloudflare
 host,api.snapkit.com,Google
 host,images-na.ssl-images-amazon.com,Cloudflare
