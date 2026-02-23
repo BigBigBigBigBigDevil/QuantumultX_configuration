@@ -1,4 +1,5 @@
 # PROXY
+host-suffix,haitunt.org,Cloudflare
 host,greasyfork.org,Cloudflare
 host,streaming-availability.p.rapidapi.com,Cloudflare
 host,api.snapkit.com,Google
