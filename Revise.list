@@ -1,4 +1,5 @@
 # PROXY
+host-keyword,docker,Cloudflare
 host,amz.awsy.top,Cloudflare
 host,www.nodeseek.com,Cloudflare
 host-suffix,haitunt.org,Cloudflare
