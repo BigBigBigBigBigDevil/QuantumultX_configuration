@@ -1,4 +1,5 @@
 # PROXY
+host,crush91.cc,Cloudflare
 host-keyword,docker,Cloudflare
 host,amz.awsy.top,Cloudflare
 host,www.nodeseek.com,Cloudflare
