@@ -1,4 +1,5 @@
 # PROXY
+host-suffix,wheelroot.com,reject
 host-suffix,missav.ws,Cloudflare
 host-suffix,missav.live,Cloudflare
 host,crush91.cc,Cloudflare
