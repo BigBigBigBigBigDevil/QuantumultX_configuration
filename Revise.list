@@ -1,4 +1,6 @@
 # PROXY
+host-suffix,missav.ws,Cloudflare
+host-suffix,missav.live,Cloudflare
 host,crush91.cc,Cloudflare
 host-keyword,docker,Cloudflare
 host,amz.awsy.top,Cloudflare
