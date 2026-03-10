@@ -1,6 +1,5 @@
 # PROXY
-host,client-rapi-missav.recombee.com,reject
-host-suffix,wheelroot.com,reject
+host,www.duyaoss.com,Cloudflare
 host-suffix,missav.ws,Cloudflare
 host-suffix,missav.live,Cloudflare
 host,crush91.cc,Cloudflare
@@ -62,6 +61,8 @@ host,i2.wp.com,Cloudflare
 host-suffix,moviewebimages.com,Cloudflare
 host,m.imdb.com,Cloudflare
 # REJECT
+host,client-rapi-missav.recombee.com,reject
+host-suffix,wheelroot.com,reject
 HOST,log-api.pangolin-sdk-toutiao-b.com,REJECT
 HOST,app-analytics-services.com,REJECT
 HOST,log.snssdk.com,REJECT
