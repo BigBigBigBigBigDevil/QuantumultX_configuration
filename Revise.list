@@ -70,6 +70,7 @@ HOST,log.snssdk.com,REJECT
 # 农行vpn检测
 HOST,msmp.abchina.com.cn,REJECT
 # DIRECT
+host,apple-relay.fastly-edge.com,DIRECT
 host,cn1.hcaptcha.com,DIRECT
 host,fixcalendar.pages.dev,DIRECT
 host,weather-in-calendar.com,DIRECT
