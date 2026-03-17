@@ -1,4 +1,5 @@
 # PROXY
+host,javdb.com,Cloudflare
 host-suffix,linux.do,Cloudflare
 host,www.duyaoss.com,Cloudflare
 host-suffix,missav.ws,Cloudflare
