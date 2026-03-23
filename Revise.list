@@ -1,4 +1,5 @@
 # PROXY
+host-suffix,appsflyersdk.com,Cloudflare
 host-suffix,xvideos-cdn.com,Cloudflare
 host-suffix,jable.tv,Cloudflare
 host,panel.gidd.tv,Cloudflare
