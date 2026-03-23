@@ -1,4 +1,5 @@
 # PROXY
+host-suffix,mushroomtrack.com,Cloudflare
 host-suffix,appsflyersdk.com,Cloudflare
 host-suffix,xvideos-cdn.com,Cloudflare
 host-suffix,jable.tv,Cloudflare
