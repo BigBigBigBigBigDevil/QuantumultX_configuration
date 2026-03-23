@@ -66,8 +66,6 @@ host,i2.wp.com,Cloudflare
 host-suffix,moviewebimages.com,Cloudflare
 host,m.imdb.com,Cloudflare
 # REJECT
-host-suffix,alonestreaming.com,reject
-host-suffix,mushroomtrack.com,reject
 host-suffix,appsflyersdk.com,reject
 host,client-rapi-missav.recombee.com,reject
 host-suffix,wheelroot.com,reject
