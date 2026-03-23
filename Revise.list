@@ -1,4 +1,5 @@
 # PROXY
+host,javday.app,Cloudflare
 host-suffix,pornhub.com,Cloudflare
 host,www.xvideos.com,Cloudflare
 host-suffix,xvideos-cdn.com,Cloudflare
@@ -68,6 +69,7 @@ host,i2.wp.com,Cloudflare
 host-suffix,moviewebimages.com,Cloudflare
 host,m.imdb.com,Cloudflare
 # REJECT
+host-suffix,vvebo.vip,reject
 host-suffix,appsflyersdk.com,reject
 host,client-rapi-missav.recombee.com,reject
 host-suffix,wheelroot.com,reject
