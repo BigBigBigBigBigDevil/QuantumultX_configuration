@@ -1,5 +1,5 @@
 # PROXY
-host,jable.tv,Cloudflare
+host-suffix,jable.tv,Cloudflare
 host,panel.gidd.tv,Cloudflare
 host,javdb.com,Cloudflare
 host-suffix,linux.do,Cloudflare
