@@ -1,4 +1,5 @@
 # PROXY
+host,flixpatrol.com,Cloudflare
 host-suffix,mushroomtrack.com,Cloudflare
 host,91porn.com,Cloudflare
 host,javday.app,Cloudflare
