@@ -1,4 +1,6 @@
 # PROXY
+host-suffix,pornhub.com,Cloudflare
+host,www.xvideos.com,Cloudflare
 host-suffix,xvideos-cdn.com,Cloudflare
 host-suffix,jable.tv,Cloudflare
 host,panel.gidd.tv,Cloudflare
