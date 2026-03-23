@@ -1,4 +1,5 @@
 # PROXY
+host-keyword,javday,Cloudflare
 host,liangxin.xyz,Cloudflare
 host,graphql.anilist.co,Cloudflare
 host,flixpatrol.com,Cloudflare
