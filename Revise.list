@@ -65,6 +65,7 @@ host,i2.wp.com,Cloudflare
 host-suffix,moviewebimages.com,Cloudflare
 host,m.imdb.com,Cloudflare
 # REJECT
+host,zolam-clowp.alonestreaming.com,reject
 host,client-rapi-missav.recombee.com,reject
 host-suffix,wheelroot.com,reject
 HOST,log-api.pangolin-sdk-toutiao-b.com,REJECT
