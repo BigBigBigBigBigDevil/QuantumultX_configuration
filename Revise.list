@@ -1,4 +1,5 @@
 # PROXY
+host,ohttp-relay1.fastly-edge.com,Cloudflare
 host-keyword,javday,Cloudflare
 host-keyword,liangxin,Cloudflare
 host,graphql.anilist.co,Cloudflare
