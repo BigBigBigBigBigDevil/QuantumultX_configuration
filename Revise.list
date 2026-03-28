@@ -20,7 +20,7 @@ host-suffix,missav.live,Cloudflare
 host,crush91.cc,Cloudflare
 host-keyword,docker,Cloudflare
 host,amz.awsy.top,Cloudflare
-host,www.nodeseek.com,Cloudflare
+host-suffix,nodeseek.com,Cloudflare
 host-suffix,haitunt.org,Cloudflare
 host,greasyfork.org,Cloudflare
 host,streaming-availability.p.rapidapi.com,Cloudflare
