@@ -1,45 +1,45 @@
 # PROXY
-host,ohttp-relay1.fastly-edge.com,Cloudflare
-host-keyword,javday,Cloudflare
-host-keyword,liangxin,Cloudflare
-host,graphql.anilist.co,Cloudflare
-host,flixpatrol.com,Cloudflare
-host-suffix,mushroomtrack.com,Cloudflare
-host,91porn.com,Cloudflare
-host,javday.app,Cloudflare
-host-suffix,pornhub.com,Cloudflare
-host,www.xvideos.com,Cloudflare
-host-suffix,xvideos-cdn.com,Cloudflare
-host-suffix,jable.tv,Cloudflare
-host,panel.gidd.tv,Cloudflare
-host,javdb.com,Cloudflare
-host-suffix,linux.do,Cloudflare
-host,www.duyaoss.com,Cloudflare
-host-suffix,missav.ws,Cloudflare
-host-suffix,missav.live,Cloudflare
-host,crush91.cc,Cloudflare
-host-keyword,docker,Cloudflare
-host,amz.awsy.top,Cloudflare
-host-suffix,nodeseek.com,Cloudflare
-host-suffix,haitunt.org,Cloudflare
-host,greasyfork.org,Cloudflare
-host,streaming-availability.p.rapidapi.com,Cloudflare
+host,ohttp-relay1.fastly-edge.com,General
+host-keyword,javday,General
+host-keyword,liangxin,General
+host,graphql.anilist.co,General
+host,flixpatrol.com,General
+host-suffix,mushroomtrack.com,General
+host,91porn.com,General
+host,javday.app,General
+host-suffix,pornhub.com,General
+host,www.xvideos.com,General
+host-suffix,xvideos-cdn.com,General
+host-suffix,jable.tv,General
+host,panel.gidd.tv,General
+host,javdb.com,General
+host-suffix,linux.do,General
+host,www.duyaoss.com,General
+host-suffix,missav.ws,General
+host-suffix,missav.live,General
+host,crush91.cc,General
+host-keyword,docker,General
+host,amz.awsy.top,General
+host-suffix,nodeseek.com,General
+host-suffix,haitunt.org,General
+host,greasyfork.org,General
+host,streaming-availability.p.rapidapi.com,General
 host,api.snapkit.com,Google
-host,images-na.ssl-images-amazon.com,Cloudflare
-host,unagi.amazon.com,Cloudflare
-host-suffix,cloudfront.net,Cloudflare
-host,m.media-amazon.com,Cloudflare
-host-suffix,imdb.com,Cloudflare
-host-suffix,intercom.com,Cloudflare
-host,www.kuromis.com,Cloudflare
-host,client.relay.crisp.chat,Cloudflare
-host-suffix,guatizi.com,Cloudflare
-host,cdn.v2ex.com,Cloudflare
-host,fastly.jsdelivr.net,Cloudflare
-host-suffix,duangks.com,Cloudflare
+host,images-na.ssl-images-amazon.com,General
+host,unagi.amazon.com,General
+host-suffix,cloudfront.net,General
+host,m.media-amazon.com,General
+host-suffix,imdb.com,General
+host-suffix,intercom.com,General
+host,www.kuromis.com,General
+host,client.relay.crisp.chat,General
+host-suffix,guatizi.com,General
+host,cdn.v2ex.com,General
+host,fastly.jsdelivr.net,General
+host-suffix,duangks.com,General
 host-suffix,notionusercontent.com,Google
-host-suffix,fileball.app, Cloudflare
-host-suffix,quantumult.app,Cloudflare
+host-suffix,fileball.app, General
+host-suffix,quantumult.app,General
 # grok
 host-keyword,xai,Google
 host-suffix,x.ai,Google
@@ -47,34 +47,34 @@ host-suffix,x.ai,Google
 host-keyword,lemon8,TikTok
 host-suffix,neutral.ttwstatic.com,TikTok
 # 漫画源
-host,api.copy2000.online,Cloudflare
-host-suffix,baozimhcn.com,Cloudflare
-host-suffix,baozimh.com,Cloudflare
+host,api.copy2000.online,General
+host-suffix,baozimhcn.com,General
+host-suffix,baozimh.com,General
 # cdn
-host,cdn.jsdelivr.net,Cloudflare
-host,cdn.cr-relay.com,Cloudflare
+host,cdn.jsdelivr.net,General
+host,cdn.cr-relay.com,General
 # anti-ad
-host-suffix,anti-ad.net,Cloudflare
+host-suffix,anti-ad.net,General
 # TMDB
-host-suffix,themoviedb.org,Cloudflare
-host-suffix,tmdb.org,Cloudflare
-host,ee.iva-api.com,Cloudflare
+host-suffix,themoviedb.org,General
+host-suffix,tmdb.org,General
+host,ee.iva-api.com,General
 # clash verge wiki
-host-suffix,metacubex.one,Cloudflare
+host-suffix,metacubex.one,General
 # infuse开发者计划
-host-suffix,community.firecore.com,Cloudflare
-host-suffix,firecore.com,Cloudflare
-host-suffix,zdassets.com,Cloudflare
-host-suffix,zendesk.com,Cloudflare
+host-suffix,community.firecore.com,General
+host-suffix,firecore.com,General
+host-suffix,zdassets.com,General
+host-suffix,zendesk.com,General
 # zlibrary
-host-keyword,library,Cloudflare
+host-keyword,library,General
 # sofa time
-host,secure.gravatar.com,Cloudflare
-host,film-show-ratings.p.rapidapi.com,Cloudflare
-host,movieweb.com,Cloudflare
-host,i2.wp.com,Cloudflare
-host-suffix,moviewebimages.com,Cloudflare
-host,m.imdb.com,Cloudflare
+host,secure.gravatar.com,General
+host,film-show-ratings.p.rapidapi.com,General
+host,movieweb.com,General
+host,i2.wp.com,General
+host-suffix,moviewebimages.com,General
+host,m.imdb.com,General
 # REJECT
 host-suffix,vvebo.vip,reject
 host-suffix,appsflyersdk.com,reject
