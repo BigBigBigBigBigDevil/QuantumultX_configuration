@@ -52,7 +52,6 @@ host,api.copy2000.online,General
 host-suffix,baozimhcn.com,General
 host-suffix,baozimh.com,General
 # cdn
-host,cdn.jsdelivr.net,General
 host,cdn.cr-relay.com,General
 # anti-ad
 host-suffix,anti-ad.net,General
