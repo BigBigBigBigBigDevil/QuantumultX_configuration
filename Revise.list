@@ -1,5 +1,5 @@
 # PROXY
-host,www.v2ex.com,General
+host-suffix,v2ex.com,General
 host,ohttp-relay1.fastly-edge.com,General
 host-keyword,javday,General
 host-keyword,liangxin,General
