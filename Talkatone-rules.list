@@ -6,20 +6,6 @@ HOST-SUFFIX,tktn.be,Talkatone
 HOST-SUFFIX,cnt.tktn.be,Talkatone
 HOST-SUFFIX,media.tenor.com,Talkatone
 
-# >>> 核心 IP 段 (通话/短信专线) <<<
-IP-CIDR,50.117.27.0/24,Talkatone,no-resolve
-IP-CIDR,63.251.124.0/24,Talkatone,no-resolve
-IP-CIDR,69.46.75.0/24,Talkatone,no-resolve
-IP-CIDR,104.244.53.0/24,Talkatone,no-resolve
-IP-CIDR,131.153.5.0/24,Talkatone,no-resolve
-IP-CIDR,131.153.7.0/24,Talkatone,no-resolve
-IP-CIDR,198.24.160.0/24,Talkatone,no-resolve
-IP-CIDR,198.24.161.0/24,Talkatone,no-resolve
-IP-CIDR,198.24.163.0/24,Talkatone,no-resolve
-IP-CIDR,198.24.183.0/24,Talkatone,no-resolve
-IP-CIDR,205.164.56.0/24,Talkatone,no-resolve
-IP-CIDR,216.172.154.0/24,Talkatone,no-resolve
-
 # >>> 专有广告 <<<
 HOST-SUFFIX,a1.tktn.be,REJECT
 HOST-SUFFIX,d.tktn.be,REJECT
