@@ -1,9 +1,10 @@
-DOMAIN-SUFFIX,talkatone.com,Talkatone
-DOMAIN-SUFFIX,talkamobile.com,Talkatone
-DOMAIN-SUFFIX,tktn.at,Talkatone
-DOMAIN-SUFFIX,tktn.be,Talkatone
-DOMAIN-SUFFIX,cnt.tktn.be,Talkatone
-DOMAIN-SUFFIX,media.tenor.com,Talkatone
+# 原地址 https://github.com/czy13724/Surge/blob/main/Modules/Talkatone.sgmodule
+HOST-SUFFIX,talkatone.com,Talkatone
+HOST-SUFFIX,talkamobile.com,Talkatone
+HOST-SUFFIX,tktn.at,Talkatone
+HOST-SUFFIX,tktn.be,Talkatone
+HOST-SUFFIX,cnt.tktn.be,Talkatone
+HOST-SUFFIX,media.tenor.com,Talkatone
 
 # >>> 核心 IP 段 (通话/短信专线) <<<
 IP-CIDR,50.117.27.0/24,Talkatone,no-resolve
@@ -20,100 +21,100 @@ IP-CIDR,205.164.56.0/24,Talkatone,no-resolve
 IP-CIDR,216.172.154.0/24,Talkatone,no-resolve
 
 # >>> 专有广告 <<<
-DOMAIN-SUFFIX,a1.tktn.be,REJECT-DROP
-DOMAIN-SUFFIX,d.tktn.be,REJECT-DROP
+HOST-SUFFIX,a1.tktn.be,REJECT-DROP
+HOST-SUFFIX,d.tktn.be,REJECT-DROP
 
 # >>> 广告 <<<
 # 1. Google AdMob & Google Ads
-DOMAIN-SUFFIX,googlesyndication.com,REJECT
-DOMAIN-SUFFIX,googleads.g.doubleclick.net,REJECT
-DOMAIN-SUFFIX,googleads4.g.doubleclick.net,REJECT
-DOMAIN-SUFFIX,adclick.g.doubleclick.net,REJECT
-DOMAIN-SUFFIX,app-measurement.com,REJECT
+HOST-SUFFIX,googlesyndication.com,REJECT
+HOST-SUFFIX,googleads.g.doubleclick.net,REJECT
+HOST-SUFFIX,googleads4.g.doubleclick.net,REJECT
+HOST-SUFFIX,adclick.g.doubleclick.net,REJECT
+HOST-SUFFIX,app-measurement.com,REJECT
 
 # 2. MobileFuse
-DOMAIN-SUFFIX,mobilefuse.com,REJECT
-DOMAIN-SUFFIX,mobi.fuse.com,REJECT
+HOST-SUFFIX,mobilefuse.com,REJECT
+HOST-SUFFIX,mobi.fuse.com,REJECT
 
 # 3. InMobi
-DOMAIN-SUFFIX,inmobi.com,REJECT
-DOMAIN-SUFFIX,inmobisdk-a.akamaihd.net,REJECT
-DOMAIN-SUFFIX,telemetry.sdk.inmobi.cn,REJECT
+HOST-SUFFIX,inmobi.com,REJECT
+HOST-SUFFIX,inmobisdk-a.akamaihd.net,REJECT
+HOST-SUFFIX,telemetry.sdk.inmobi.cn,REJECT
 
 # 4. PubMatic
-DOMAIN-SUFFIX,pubmatic.com,REJECT
+HOST-SUFFIX,pubmatic.com,REJECT
 
 # 5. Smaato
-DOMAIN-SUFFIX,smaato.net,REJECT
-DOMAIN-SUFFIX,smaato.com,REJECT
+HOST-SUFFIX,smaato.net,REJECT
+HOST-SUFFIX,smaato.com,REJECT
 
 # 6. Tappx
-DOMAIN-SUFFIX,tappx.com,REJECT
+HOST-SUFFIX,tappx.com,REJECT
 
 # 7. Fyber / Inneractive
-DOMAIN-SUFFIX,fyber.com,REJECT
-DOMAIN-SUFFIX,inner-active.mobi,REJECT
-DOMAIN-SUFFIX,exchange-b-events.inner-active.mobi,REJECT
-DOMAIN-SUFFIX,wv.inner-active.mobi,REJECT
-DOMAIN-SUFFIX,cdn2.inner-active.mobi,REJECT
-DOMAIN-SUFFIX,sdk-events.inner-active.mobi,REJECT
-DOMAIN-SUFFIX,skadnetworks.fyber.com,REJECT
+HOST-SUFFIX,fyber.com,REJECT
+HOST-SUFFIX,inner-active.mobi,REJECT
+HOST-SUFFIX,exchange-b-events.inner-active.mobi,REJECT
+HOST-SUFFIX,wv.inner-active.mobi,REJECT
+HOST-SUFFIX,cdn2.inner-active.mobi,REJECT
+HOST-SUFFIX,sdk-events.inner-active.mobi,REJECT
+HOST-SUFFIX,skadnetworks.fyber.com,REJECT
 
 # 8. Amazon Ads
-DOMAIN-SUFFIX,amazon-adsystem.com,REJECT
+HOST-SUFFIX,amazon-adsystem.com,REJECT
 
 # 9. Vungle
-DOMAIN-SUFFIX,vungle.com,REJECT
+HOST-SUFFIX,vungle.com,REJECT
 
 # 10. AppLovin
-DOMAIN-SUFFIX,applovin.com,REJECT
+HOST-SUFFIX,applovin.com,REJECT
 
 # 11. Google 广告其他子域
-DOMAIN-SUFFIX,pagead2.googlesyndication.com,REJECT
-DOMAIN-SUFFIX,googleadservices.com,REJECT
-DOMAIN-SUFFIX,doubleclick-cn.net,REJECT
-DOMAIN-SUFFIX,googlesyndication-cn.com,REJECT
-DOMAIN-SUFFIX,mediation.goog,REJECT
-DOMAIN-SUFFIX,badad.googleplex.com,REJECT
-DOMAIN-SUFFIX,imasdk.googleapis.com,REJECT
+HOST-SUFFIX,pagead2.googlesyndication.com,REJECT
+HOST-SUFFIX,googleadservices.com,REJECT
+HOST-SUFFIX,doubleclick-cn.net,REJECT
+HOST-SUFFIX,googlesyndication-cn.com,REJECT
+HOST-SUFFIX,mediation.goog,REJECT
+HOST-SUFFIX,badad.googleplex.com,REJECT
+HOST-SUFFIX,imasdk.googleapis.com,REJECT
 
 # 12. Apple 广告归因
-DOMAIN-SUFFIX,app-ads-services.com,REJECT
+HOST-SUFFIX,app-ads-services.com,REJECT
 
 # >>> 广告 & 遥测 <<< 
-DOMAIN-SUFFIX,adrta.com,REJECT-DROP
-DOMAIN-SUFFIX,adsappier.com,REJECT-DROP
-DOMAIN-SUFFIX,appier.net,REJECT-DROP
-DOMAIN-SUFFIX,appiersig.com,REJECT-DROP
-DOMAIN-SUFFIX,as.cluep.com,REJECT-DROP
-DOMAIN-SUFFIX,criteo.com,REJECT-DROP
-DOMAIN-SUFFIX,pubnative.net,REJECT-DROP
-DOMAIN-SUFFIX,smadex.com,REJECT-DROP
-DOMAIN-SUFFIX,taboola.com,REJECT-DROP
-DOMAIN-SUFFIX,tr-us.adsmoloco.com,REJECT-DROP
-DOMAIN-SUFFIX,impression.link,REJECT-DROP
-DOMAIN-SUFFIX,jampp.com,REJECT-DROP
-DOMAIN-SUFFIX,pomodoromedia.com,REJECT-DROP
-DOMAIN-SUFFIX,zemanta.com,REJECT-DROP
-DOMAIN-SUFFIX,outbrain.com,REJECT-DROP
-DOMAIN-SUFFIX,outbrainimg.com,REJECT-DROP
-DOMAIN-SUFFIX,trustarc.com,REJECT-DROP
-DOMAIN-SUFFIX,truste.com,REJECT-DROP
-DOMAIN-SUFFIX,adsrvr.org,REJECT-DROP
-DOMAIN-SUFFIX,inhousedsp.com,REJECT-DROP
-DOMAIN-SUFFIX,i.sng.link,REJECT-DROP
-DOMAIN-SUFFIX,richmob.cn,REJECT-DROP
-DOMAIN-SUFFIX,4dvertible.com,REJECT-DROP
-DOMAIN-SUFFIX,m.tktn.me,REJECT-DROP
-DOMAIN-SUFFIX,appsflyer.com,REJECT-DROP
-DOMAIN-SUFFIX,crashlytics.com,REJECT-DROP
-DOMAIN-SUFFIX,agkn.com,REJECT-DROP
-DOMAIN-SUFFIX,cohere.com,REJECT-DROP
-DOMAIN-SUFFIX,kochava.com,REJECT-DROP
-DOMAIN-SUFFIX,firebaselogging.googleapis.com,REJECT-DROP
-DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com,REJECT-DROP
-DOMAIN-SUFFIX,firebase-settings.crashlytics.com,REJECT-DROP
-DOMAIN-SUFFIX,firebaseinstallations.googleapis.com,REJECT-DROP
-DOMAIN-SUFFIX,firebaseappcheck.googleapis.com,REJECT-DROP
-DOMAIN-SUFFIX,app-analytics-services.com,REJECT-DROP
-DOMAIN-SUFFIX,app-analytics-services-att.com,REJECT-DROP
+HOST-SUFFIX,adrta.com,REJECT-DROP
+HOST-SUFFIX,adsappier.com,REJECT-DROP
+HOST-SUFFIX,appier.net,REJECT-DROP
+HOST-SUFFIX,appiersig.com,REJECT-DROP
+HOST-SUFFIX,as.cluep.com,REJECT-DROP
+HOST-SUFFIX,criteo.com,REJECT-DROP
+HOST-SUFFIX,pubnative.net,REJECT-DROP
+HOST-SUFFIX,smadex.com,REJECT-DROP
+HOST-SUFFIX,taboola.com,REJECT-DROP
+HOST-SUFFIX,tr-us.adsmoloco.com,REJECT-DROP
+HOST-SUFFIX,impression.link,REJECT-DROP
+HOST-SUFFIX,jampp.com,REJECT-DROP
+HOST-SUFFIX,pomodoromedia.com,REJECT-DROP
+HOST-SUFFIX,zemanta.com,REJECT-DROP
+HOST-SUFFIX,outbrain.com,REJECT-DROP
+HOST-SUFFIX,outbrainimg.com,REJECT-DROP
+HOST-SUFFIX,trustarc.com,REJECT-DROP
+HOST-SUFFIX,truste.com,REJECT-DROP
+HOST-SUFFIX,adsrvr.org,REJECT-DROP
+HOST-SUFFIX,inhousedsp.com,REJECT-DROP
+HOST-SUFFIX,i.sng.link,REJECT-DROP
+HOST-SUFFIX,richmob.cn,REJECT-DROP
+HOST-SUFFIX,4dvertible.com,REJECT-DROP
+HOST-SUFFIX,m.tktn.me,REJECT-DROP
+HOST-SUFFIX,appsflyer.com,REJECT-DROP
+HOST-SUFFIX,crashlytics.com,REJECT-DROP
+HOST-SUFFIX,agkn.com,REJECT-DROP
+HOST-SUFFIX,cohere.com,REJECT-DROP
+HOST-SUFFIX,kochava.com,REJECT-DROP
+HOST-SUFFIX,firebaselogging.googleapis.com,REJECT-DROP
+HOST-SUFFIX,crashlyticsreports-pa.googleapis.com,REJECT-DROP
+HOST-SUFFIX,firebase-settings.crashlytics.com,REJECT-DROP
+HOST-SUFFIX,firebaseinstallations.googleapis.com,REJECT-DROP
+HOST-SUFFIX,firebaseappcheck.googleapis.com,REJECT-DROP
+HOST-SUFFIX,app-analytics-services.com,REJECT-DROP
+HOST-SUFFIX,app-analytics-services-att.com,REJECT-DROP
