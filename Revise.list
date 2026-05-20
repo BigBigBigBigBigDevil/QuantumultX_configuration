@@ -75,40 +75,6 @@ host,i2.wp.com,General
 host-suffix,moviewebimages.com,General
 host,m.imdb.com,General
 # REJECT
-host-suffix, tappx.com, reject
-host-suffix, impression.link, reject
-host-suffix, jampp.com, reject
-host-suffix, adrta.com, reject
-host-suffix, googlesyndication-cn.com, reject
-host-suffix, doubleclick-cn.net, reject
-host-suffix, fonts.gstatic.cn, reject
-host-suffix, pomodoromedia.com, reject
-host-suffix, zemanta.com, reject
-host-suffix, mobilefuse.com, reject
-host-suffix, outbrainimg.com, reject
-host-suffix, trustarc.com, reject
-host-suffix, truste.com, reject
-host-suffix, adsrvr.org, reject
-host-suffix, outbrain.com, reject
-host-suffix, inhousedsp.com, reject
-host-suffix, i.sng.link, reject
-host-suffix, inner-active.mobi, reject
-host-suffix, richmob.cn, reject
-host-suffix, amazon-adsystem.com, reject
-host-suffix, ads.pubmatic.com, reject
-host-suffix, bidder.criteo.com, reject
-host-suffix, gum.criteo.com, reject
-host-suffix, smaato.net, reject
-host-suffix, spadsync.com, reject
-host-suffix, ads.inmobi.com, reject
-host-suffix, akamaized.net, reject
-host-suffix, spadsync.com, reject
-host-suffix, tpc.googlesyndication.com, reject
-host-suffix, googleadsserving.cn, reject
-host-suffix, googleads.g.doubleclick.net, reject
-host-suffix, inner-active.mobi, reject
-host-suffix, 4dvertible.com, reject
-host-suffix, smadex.com, reject
 host-suffix,vvebo.vip,reject
 host-suffix,appsflyersdk.com,reject
 host,client-rapi-missav.recombee.com,reject
