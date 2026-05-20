@@ -21,8 +21,8 @@ IP-CIDR,205.164.56.0/24,Talkatone,no-resolve
 IP-CIDR,216.172.154.0/24,Talkatone,no-resolve
 
 # >>> 专有广告 <<<
-HOST-SUFFIX,a1.tktn.be,REJECT-DROP
-HOST-SUFFIX,d.tktn.be,REJECT-DROP
+HOST-SUFFIX,a1.tktn.be,REJECT
+HOST-SUFFIX,d.tktn.be,REJECT
 
 # >>> 广告 <<<
 # 1. Google AdMob & Google Ads
@@ -82,39 +82,39 @@ HOST-SUFFIX,imasdk.googleapis.com,REJECT
 HOST-SUFFIX,app-ads-services.com,REJECT
 
 # >>> 广告 & 遥测 <<< 
-HOST-SUFFIX,adrta.com,REJECT-DROP
-HOST-SUFFIX,adsappier.com,REJECT-DROP
-HOST-SUFFIX,appier.net,REJECT-DROP
-HOST-SUFFIX,appiersig.com,REJECT-DROP
-HOST-SUFFIX,as.cluep.com,REJECT-DROP
-HOST-SUFFIX,criteo.com,REJECT-DROP
-HOST-SUFFIX,pubnative.net,REJECT-DROP
-HOST-SUFFIX,smadex.com,REJECT-DROP
-HOST-SUFFIX,taboola.com,REJECT-DROP
-HOST-SUFFIX,tr-us.adsmoloco.com,REJECT-DROP
-HOST-SUFFIX,impression.link,REJECT-DROP
-HOST-SUFFIX,jampp.com,REJECT-DROP
-HOST-SUFFIX,pomodoromedia.com,REJECT-DROP
-HOST-SUFFIX,zemanta.com,REJECT-DROP
-HOST-SUFFIX,outbrain.com,REJECT-DROP
-HOST-SUFFIX,outbrainimg.com,REJECT-DROP
-HOST-SUFFIX,trustarc.com,REJECT-DROP
-HOST-SUFFIX,truste.com,REJECT-DROP
-HOST-SUFFIX,adsrvr.org,REJECT-DROP
-HOST-SUFFIX,inhousedsp.com,REJECT-DROP
-HOST-SUFFIX,i.sng.link,REJECT-DROP
-HOST-SUFFIX,richmob.cn,REJECT-DROP
-HOST-SUFFIX,4dvertible.com,REJECT-DROP
-HOST-SUFFIX,m.tktn.me,REJECT-DROP
-HOST-SUFFIX,appsflyer.com,REJECT-DROP
-HOST-SUFFIX,crashlytics.com,REJECT-DROP
-HOST-SUFFIX,agkn.com,REJECT-DROP
-HOST-SUFFIX,cohere.com,REJECT-DROP
-HOST-SUFFIX,kochava.com,REJECT-DROP
-HOST-SUFFIX,firebaselogging.googleapis.com,REJECT-DROP
-HOST-SUFFIX,crashlyticsreports-pa.googleapis.com,REJECT-DROP
-HOST-SUFFIX,firebase-settings.crashlytics.com,REJECT-DROP
-HOST-SUFFIX,firebaseinstallations.googleapis.com,REJECT-DROP
-HOST-SUFFIX,firebaseappcheck.googleapis.com,REJECT-DROP
-HOST-SUFFIX,app-analytics-services.com,REJECT-DROP
-HOST-SUFFIX,app-analytics-services-att.com,REJECT-DROP
+HOST-SUFFIX,adrta.com,REJECT
+HOST-SUFFIX,adsappier.com,REJECT
+HOST-SUFFIX,appier.net,REJECT
+HOST-SUFFIX,appiersig.com,REJECT
+HOST-SUFFIX,as.cluep.com,REJECT
+HOST-SUFFIX,criteo.com,REJECT
+HOST-SUFFIX,pubnative.net,REJECT
+HOST-SUFFIX,smadex.com,REJECT
+HOST-SUFFIX,taboola.com,REJECT
+HOST-SUFFIX,tr-us.adsmoloco.com,REJECT
+HOST-SUFFIX,impression.link,REJECT
+HOST-SUFFIX,jampp.com,REJECT
+HOST-SUFFIX,pomodoromedia.com,REJECT
+HOST-SUFFIX,zemanta.com,REJECT
+HOST-SUFFIX,outbrain.com,REJECT
+HOST-SUFFIX,outbrainimg.com,REJECT
+HOST-SUFFIX,trustarc.com,REJECT
+HOST-SUFFIX,truste.com,REJECT
+HOST-SUFFIX,adsrvr.org,REJECT
+HOST-SUFFIX,inhousedsp.com,REJECT
+HOST-SUFFIX,i.sng.link,REJECT
+HOST-SUFFIX,richmob.cn,REJECT
+HOST-SUFFIX,4dvertible.com,REJECT
+HOST-SUFFIX,m.tktn.me,REJECT
+HOST-SUFFIX,appsflyer.com,REJECT
+HOST-SUFFIX,crashlytics.com,REJECT
+HOST-SUFFIX,agkn.com,REJECT
+HOST-SUFFIX,cohere.com,REJECT
+HOST-SUFFIX,kochava.com,REJECT
+HOST-SUFFIX,firebaselogging.googleapis.com,REJECT
+HOST-SUFFIX,crashlyticsreports-pa.googleapis.com,REJECT
+HOST-SUFFIX,firebase-settings.crashlytics.com,REJECT
+HOST-SUFFIX,firebaseinstallations.googleapis.com,REJECT
+HOST-SUFFIX,firebaseappcheck.googleapis.com,REJECT
+HOST-SUFFIX,app-analytics-services.com,REJECT
+HOST-SUFFIX,app-analytics-services-att.com,REJECT
