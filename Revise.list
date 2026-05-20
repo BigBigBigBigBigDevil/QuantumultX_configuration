@@ -75,6 +75,7 @@ host,i2.wp.com,General
 host-suffix,moviewebimages.com,General
 host,m.imdb.com,General
 # REJECT
+host,muf.app-ads-services.com,reject
 host-suffix,vvebo.vip,reject
 host-suffix,appsflyersdk.com,reject
 host,client-rapi-missav.recombee.com,reject
