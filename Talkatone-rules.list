@@ -1,6 +1,7 @@
 # 规则名称: Talkatone
 # 规则统计: 16
 
+HOST,a1.tktn.be,REJECT
 HOST-SUFFIX,agkn.com,Talkatone
 HOST-SUFFIX,cohere.com,Talkatone
 HOST-SUFFIX,crashlytics.com,Talkatone
