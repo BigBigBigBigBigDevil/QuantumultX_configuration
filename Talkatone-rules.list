@@ -5,6 +5,13 @@ HOST-SUFFIX,tktn.at,Talkatone
 HOST-SUFFIX,tktn.be,Talkatone
 HOST-SUFFIX,cnt.tktn.be,Talkatone
 HOST-SUFFIX,media.tenor.com,Talkatone
+HOST-SUFFIX,mobilefuse.com,Talkatone
+HOST-SUFFIX,agkn.com,Talkatone
+HOST-SUFFIX,cohere.com,Talkatone
+HOST-SUFFIX,crashlytics.com,Talkatone
+HOST-SUFFIX,inmobi.com,Talkatone
+HOST-SUFFIX,inner-active.mobi,Talkatone
+HOST-SUFFIX,kochava.com,Talkatone
 
 # >>> 专有广告 <<<
 HOST-SUFFIX,a1.tktn.be,REJECT
