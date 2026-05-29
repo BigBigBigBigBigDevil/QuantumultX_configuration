@@ -1,4 +1,5 @@
 # PROXY
+host,gallery.scriptable.app,General
 host,api.introdb.app,General
 host,api.theintrodb.org,General
 host,ddgksf2013.top,General
