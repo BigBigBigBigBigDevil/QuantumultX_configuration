@@ -1,4 +1,6 @@
 # PROXY
+host,api.introdb.app,General
+host,api.theintrodb.org,General
 host,ddgksf2013.top,General
 host-suffix,ippure.com,General
 host-suffix,v2ex.com,General
