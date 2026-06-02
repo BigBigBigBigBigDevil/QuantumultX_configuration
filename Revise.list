@@ -1,5 +1,5 @@
 # PROXY
-host,client.crisp.chat,General
+host-suffix,crisp.chat,General
 host,gallery.scriptable.app,General
 host,api.introdb.app,General
 host,api.theintrodb.org,General
