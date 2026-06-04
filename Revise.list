@@ -79,6 +79,7 @@ host,i2.wp.com,General
 host-suffix,moviewebimages.com,General
 host,m.imdb.com,General
 # REJECT
+host,sdkgen.data.tianwenca.com,reject
 host,muf.app-ads-services.com,reject
 host-suffix,vvebo.vip,reject
 host-suffix,appsflyersdk.com,reject
