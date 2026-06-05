@@ -89,8 +89,6 @@ host-suffix,wheelroot.com,reject
 HOST,log-api.pangolin-sdk-toutiao-b.com,REJECT
 HOST,app-analytics-services.com,REJECT
 HOST,log.snssdk.com,REJECT
-# 农行vpn检测
-HOST,msmp.abchina.com.cn,REJECT
 # DIRECT
 host,apple-relay.fastly-edge.com,DIRECT
 host,cn1.hcaptcha.com,DIRECT
