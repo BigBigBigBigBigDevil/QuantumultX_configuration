@@ -83,7 +83,6 @@ host,firebase-settings.crashlytics.com,reject
 host,sdk1xyajs.data.kuiniuca.com,reject
 host,sdkgen.data.tianwenca.com,reject
 host,muf.app-ads-services.com,reject
-host-suffix,vvebo.vip,reject
 host-suffix,appsflyersdk.com,reject
 host,client-rapi-missav.recombee.com,reject
 host-suffix,wheelroot.com,reject
