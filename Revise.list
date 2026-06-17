@@ -80,6 +80,9 @@ host,i2.wp.com,General
 host-suffix,moviewebimages.com,General
 host,m.imdb.com,General
 # REJECT
+host-suffix,bjmxy.net,reject
+host-suffix,dahhxxttxs.com,reject
+host-suffix,qrstuvwxyzab.com,reject
 host,firebase-settings.crashlytics.com,reject
 host,sdk1xyajs.data.kuiniuca.com,reject
 host,sdkgen.data.tianwenca.com,reject
