@@ -80,6 +80,7 @@ host,i2.wp.com,General
 host-suffix,moviewebimages.com,General
 host,m.imdb.com,General
 # REJECT
+host,us-va.ac.axonixgrid.com,reject
 host-suffix,bjmxy.net,reject
 host-suffix,dahhxxttxs.com,reject
 host-suffix,qrstuvwxyzab.com,reject
