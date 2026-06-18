@@ -100,4 +100,5 @@ host,cn1.hcaptcha.com,DIRECT
 host,fixcalendar.pages.dev,DIRECT
 host,weather-in-calendar.com,DIRECT
 host-keyword, local, DIRECT
+host,api.rc-backup.com,DIRECT
 host-suffix,revenuecat.com,DIRECT
