@@ -49,8 +49,8 @@ host-suffix,notionusercontent.com,Google
 host-suffix,fileball.app, General
 host-suffix,quantumult.app,General
 # grok
-host-keyword,xai,Google
-host-suffix,x.ai,Google
+host-keyword,xai,US
+host-suffix,x.ai,US
 # 漫画源
 host,api.copy2000.online,General
 host-suffix,baozimhcn.com,General
