@@ -1,18 +1,18 @@
 # PROXY
-host-suffix,simkl.in,General
-host-suffix,crisp.chat,General
-host,gallery.scriptable.app,General
-host,api.introdb.app,General
-host,api.theintrodb.org,General
-host,ddgksf2013.top,General
-host-suffix,ippure.com,General
-host-suffix,v2ex.com,General
-host,ohttp-relay1.fastly-edge.com,General
+host-suffix,simkl.in,HK
+host-suffix,crisp.chat,HK
+host,gallery.scriptable.app,HK
+host,api.introdb.app,HK
+host,api.theintrodb.org,HK
+host,ddgksf2013.top,HK
+host-suffix,ippure.com,HK
+host-suffix,v2ex.com,HK
+host,ohttp-relay1.fastly-edge.com,HK
 host-keyword,javday,General
-host-keyword,liangxin,General
-host,graphql.anilist.co,General
-host,flixpatrol.com,General
-host-suffix,mushroomtrack.com,General
+host-keyword,liangxin,HK
+host,graphql.anilist.co,HK
+host,flixpatrol.com,HK
+host-suffix,mushroomtrack.com,HK
 host,91porn.com,General
 host,javday.app,General
 host-suffix,pornhub.com,General
@@ -21,33 +21,32 @@ host-suffix,xvideos-cdn.com,General
 host-suffix,jable.tv,General
 host,panel.gidd.tv,General
 host,javdb.com,General
-host-suffix,linux.do,General
-host,www.duyaoss.com,General
+host-suffix,linux.do,HK
+host,www.duyaoss.com,HK
 host-suffix,missav.ws,General
 host-suffix,missav.live,General
 host,crush91.cc,General
-host-keyword,docker,General
-host,amz.awsy.top,General
-host-suffix,nodeseek.com,General
-host-suffix,haitunt.org,General
-host,greasyfork.org,General
-host,streaming-availability.p.rapidapi.com,General
+host-keyword,docker,HK
+host,amz.awsy.top,HK
+host-suffix,nodeseek.com,HK
+host-suffix,haitunt.org,HK
+host,greasyfork.org,HK
+host,streaming-availability.p.rapidapi.com,HK
 host,api.snapkit.com,HK
-host,images-na.ssl-images-amazon.com,General
-host,unagi.amazon.com,General
-host-suffix,cloudfront.net,General
-host,m.media-amazon.com,General
-host-suffix,imdb.com,General
-host-suffix,intercom.com,General
-host,www.kuromis.com,General
-host,client.relay.crisp.chat,General
-host-suffix,guatizi.com,General
-host,cdn.v2ex.com,General
-host,fastly.jsdelivr.net,General
-host-suffix,duangks.com,General
+host,images-na.ssl-images-amazon.com,HK
+host,unagi.amazon.com,HK
+host-suffix,cloudfront.net,HK
+host,m.media-amazon.com,HK
+host-suffix,imdb.com,HK
+host-suffix,intercom.com,HK
+host,www.kuromis.com,HK
+host-suffix,guatizi.com,HK
+host,cdn.v2ex.com,HK
+host,fastly.jsdelivr.net,HK
+host-suffix,duangks.com,HK
 host-suffix,notionusercontent.com,HK
-host-suffix,fileball.app, General
-host-suffix,quantumult.app,General
+host-suffix,fileball.app, HK
+host-suffix,quantumult.app,HK
 # grok
 host-keyword,xai,US
 host-suffix,x.ai,US
@@ -56,29 +55,29 @@ host,api.copy2000.online,General
 host-suffix,baozimhcn.com,General
 host-suffix,baozimh.com,General
 # cdn
-host,cdn.cr-relay.com,General
+host,cdn.cr-relay.com,HK
 # anti-ad
-host-suffix,anti-ad.net,General
+host-suffix,anti-ad.net,HK
 # TMDB
-host-suffix,themoviedb.org,General
-host-suffix,tmdb.org,General
-host,ee.iva-api.com,General
+host-suffix,themoviedb.org,HK
+host-suffix,tmdb.org,HK
+host,ee.iva-api.com,HK
 # clash verge wiki
-host-suffix,metacubex.one,General
+host-suffix,metacubex.one,HK
 # infuse开发者计划
-host-suffix,community.firecore.com,General
-host-suffix,firecore.com,General
-host-suffix,zdassets.com,General
-host-suffix,zendesk.com,General
+host-suffix,community.firecore.com,HK
+host-suffix,firecore.com,HK
+host-suffix,zdassets.com,HK
+host-suffix,zendesk.com,HK
 # zlibrary
-host-keyword,library,General
+host-keyword,library,HK
 # sofa time
-host,secure.gravatar.com,General
-host,film-show-ratings.p.rapidapi.com,General
-host,movieweb.com,General
-host,i2.wp.com,General
-host-suffix,moviewebimages.com,General
-host,m.imdb.com,General
+host,secure.gravatar.com,HK
+host,film-show-ratings.p.rapidapi.com,HK
+host,movieweb.com,HK
+host,i2.wp.com,HK
+host-suffix,moviewebimages.com,HK
+host,m.imdb.com,HK
 # REJECT
 host,us-va.ac.axonixgrid.com,reject
 host-suffix,bjmxy.net,reject
