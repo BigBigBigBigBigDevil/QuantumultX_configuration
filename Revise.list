@@ -8,22 +8,12 @@ host,ddgksf2013.top,HK
 host-suffix,ippure.com,HK
 host-suffix,v2ex.com,HK
 host,ohttp-relay1.fastly-edge.com,HK
-host-keyword,javday,General
 host-keyword,liangxin,HK
 host,graphql.anilist.co,HK
 host,flixpatrol.com,HK
 host-suffix,mushroomtrack.com,HK
-host,91porn.com,General
-host,javday.app,General
-host-suffix,pornhub.com,General
-host,www.xvideos.com,General
-host-suffix,xvideos-cdn.com,General
-host-suffix,jable.tv,General
-host,javdb.com,General
 host-suffix,linux.do,HK
 host,www.duyaoss.com,HK
-host-suffix,missav.ws,General
-host-suffix,missav.live,General
 host,crush91.cc,General
 host-keyword,docker,HK
 host,amz.awsy.top,HK
@@ -46,6 +36,16 @@ host-suffix,duangks.com,HK
 host-suffix,notionusercontent.com,HK
 host-suffix,fileball.app, HK
 host-suffix,quantumult.app,HK
+host-keyword,javday,General
+host-suffix,missav.ws,General
+host-suffix,missav.live,General
+host,91porn.com,General
+host,javday.app,General
+host-suffix,pornhub.com,General
+host,www.xvideos.com,General
+host-suffix,xvideos-cdn.com,General
+host-suffix,jable.tv,General
+host,javdb.com,General
 # grok
 host-keyword,xai,US
 host-suffix,x.ai,US
