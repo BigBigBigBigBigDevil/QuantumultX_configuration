@@ -7,7 +7,6 @@ host,api.theintrodb.org,HK
 host,ddgksf2013.top,HK
 host-suffix,ippure.com,HK
 host-suffix,v2ex.com,HK
-host,ohttp-relay1.fastly-edge.com,HK
 host-keyword,liangxin,HK
 host,graphql.anilist.co,HK
 host,flixpatrol.com,HK
@@ -62,6 +61,7 @@ host,movieweb.com,HK
 host,i2.wp.com,HK
 host-suffix,moviewebimages.com,HK
 host,m.imdb.com,HK
+# R18
 host,crush91.cc,General
 host-keyword,javday,General
 host-suffix,missav.ws,General
@@ -96,6 +96,7 @@ IP-CIDR, 127.0.0.0/8, DIRECT
 IP-CIDR, 172.16.0.0/12, DIRECT
 IP-CIDR, 192.168.0.0/16, DIRECT
 IP-CIDR, 224.0.0.0/24, DIRECT
+host,ohttp-relay1.fastly-edge.com,DIRECT
 host,apple-relay.fastly-edge.com,DIRECT
 host,cn1.hcaptcha.com,DIRECT
 host,fixcalendar.pages.dev,DIRECT
