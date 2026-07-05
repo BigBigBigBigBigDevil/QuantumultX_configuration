@@ -50,10 +50,6 @@ host-suffix,quantumult.app,HK
 # grok
 host-keyword,xai,US
 host-suffix,x.ai,US
-# 漫画源
-host,api.copy2000.online,General
-host-suffix,baozimhcn.com,General
-host-suffix,baozimh.com,General
 # cdn
 host,cdn.cr-relay.com,HK
 # anti-ad
