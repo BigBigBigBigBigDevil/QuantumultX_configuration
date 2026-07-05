@@ -36,16 +36,6 @@ host-suffix,duangks.com,HK
 host-suffix,notionusercontent.com,HK
 host-suffix,fileball.app, HK
 host-suffix,quantumult.app,HK
-host-keyword,javday,General
-host-suffix,missav.ws,General
-host-suffix,missav.live,General
-host,91porn.com,General
-host,javday.app,General
-host-suffix,pornhub.com,General
-host,www.xvideos.com,General
-host-suffix,xvideos-cdn.com,General
-host-suffix,jable.tv,General
-host,javdb.com,General
 # grok
 host-keyword,xai,US
 host-suffix,x.ai,US
@@ -73,6 +63,16 @@ host,movieweb.com,HK
 host,i2.wp.com,HK
 host-suffix,moviewebimages.com,HK
 host,m.imdb.com,HK
+host-keyword,javday,General
+host-suffix,missav.ws,General
+host-suffix,missav.live,General
+host,91porn.com,General
+host,javday.app,General
+host-suffix,pornhub.com,General
+host,www.xvideos.com,General
+host-suffix,xvideos-cdn.com,General
+host-suffix,jable.tv,General
+host,javdb.com,General
 # REJECT
 ## 农行vpn检测
 HOST, msmp.abchina.com.cn, REJECT
