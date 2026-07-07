@@ -63,17 +63,17 @@ host,i2.wp.com,HK
 host-suffix,moviewebimages.com,HK
 host,m.imdb.com,HK
 # R18
-host,crush91.cc,General
-host-keyword,javday,General
-host-suffix,missav.ws,General
-host-suffix,missav.live,General
-host,91porn.com,General
-host,javday.app,General
-host-suffix,pornhub.com,General
-host,www.xvideos.com,General
-host-suffix,xvideos-cdn.com,General
-host-suffix,jable.tv,General
-host,javdb.com,General
+host,crush91.cc,HK
+host-keyword,javday,HK
+host-suffix,missav.ws,HK
+host-suffix,missav.live,HK
+host,91porn.com,HK
+host,javday.app,HK
+host-suffix,pornhub.com,HK
+host,www.xvideos.com,HK
+host-suffix,xvideos-cdn.com,HK
+host-suffix,jable.tv,HK
+host,javdb.com,HK
 # REJECT
 ## 农行vpn检测
 HOST, msmp.abchina.com.cn, REJECT
