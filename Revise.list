@@ -35,6 +35,7 @@ host-suffix,notionusercontent.com,HK
 host-suffix,fileball.app, HK
 host-suffix,quantumult.app,HK
 host,ohttp-relay1.fastly-edge.com,HK
+host-suffix,yfamilys.com,HK
 # grok
 host-keyword,xai,US
 host-suffix,x.ai,US
