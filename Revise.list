@@ -42,7 +42,8 @@ host-suffix,x.ai,US
 host,cdn.cr-relay.com,HK
 # anti-ad
 host-suffix,anti-ad.net,HK
-# TMDB
+# 媒体数据
+host-suffix,omdbapi.com,HK
 host-suffix,themoviedb.org,HK
 host-suffix,tmdb.org,HK
 host,ee.iva-api.com,HK
