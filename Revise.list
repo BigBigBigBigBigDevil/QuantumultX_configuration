@@ -37,6 +37,7 @@ host-suffix,quantumult.app,HK
 host,ohttp-relay1.fastly-edge.com,HK
 host-suffix,yfamilys.com,HK
 host,www.videowebdownloader.es,HK
+host,static.zohocdn.com,HK
 # grok
 host-keyword,xai,US
 host-suffix,x.ai,US
