@@ -103,6 +103,7 @@ HOST,log-api.pangolin-sdk-toutiao-b.com,REJECT
 HOST,app-analytics-services.com,REJECT
 HOST,log.snssdk.com,REJECT
 # DIRECT
+HOST-KEYWORD, react, DIRECT
 HOST,ant.design, DIRECT
 IP-CIDR, 10.0.0.0/8, DIRECT
 IP-CIDR, 127.0.0.0/8, DIRECT
