@@ -44,6 +44,11 @@ host-suffix,algolia.net,HK
 host-suffix,mockapi.io,HK
 host-suffix,blazingly.io,HK
 host-suffix,zohowebstatic.com,HK
+## infuse
+HOST, api.adaptytech-alt.com, HK
+HOST, api.ipify.org, REJECT
+HOST, api.adaptytech.com, HK
+HOST-SUFFIX, adapty.io, HK
 ## github cdn镜像
 HOST-SUFFIX, jsdelivr.net, HK
 # grok
