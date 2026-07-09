@@ -39,6 +39,7 @@ host-suffix,yfamilys.com,HK
 host,www.videowebdownloader.es,HK
 host,static.zohocdn.com,HK
 host-suffix,algolia.net,HK
+host-suffix,mockapi.io,HK
 # grok
 host-keyword,xai,US
 host-suffix,x.ai,US
