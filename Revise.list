@@ -45,6 +45,7 @@ host,cdn.cr-relay.com,HK
 # anti-ad
 host-suffix,anti-ad.net,HK
 # 媒体数据
+host,api.imdbapi.dev,HK
 host-suffix,omdbapi.com,HK
 host-suffix,themoviedb.org,HK
 host-suffix,tmdb.org,HK
