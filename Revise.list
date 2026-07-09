@@ -44,6 +44,8 @@ host-suffix,algolia.net,HK
 host-suffix,mockapi.io,HK
 host-suffix,blazingly.io,HK
 host-suffix,zohowebstatic.com,HK
+## github cdn镜像
+HOST-SUFFIX, jsdelivr.net, HK
 # grok
 host-keyword,xai,US
 host-suffix,x.ai,US
