@@ -40,6 +40,7 @@ host,www.videowebdownloader.es,HK
 host,static.zohocdn.com,HK
 host-suffix,algolia.net,HK
 host-suffix,mockapi.io,HK
+host-suffix,blazingly.io,HK
 # grok
 host-keyword,xai,US
 host-suffix,x.ai,US
