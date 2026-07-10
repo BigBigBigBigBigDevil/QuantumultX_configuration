@@ -48,8 +48,6 @@ HOST, api.adaptytech-alt.com, HK
 HOST, api.ipify.org, REJECT
 HOST, api.adaptytech.com, HK
 HOST-SUFFIX, adapty.io, HK
-## github cdn镜像
-HOST-SUFFIX, jsdelivr.net, HK
 # grok
 host-keyword,xai,US
 host-suffix,x.ai,US
