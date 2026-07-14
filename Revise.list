@@ -40,7 +40,6 @@ host-suffix,yfamilys.com,HK
 host,www.videowebdownloader.es,HK
 host,static.zohocdn.com,HK
 host-suffix,algolia.net,HK
-host-suffix,mockapi.io,HK
 host-suffix,blazingly.io,HK
 host-suffix,zohowebstatic.com,HK
 ## infuse
@@ -107,6 +106,7 @@ HOST,log-api.pangolin-sdk-toutiao-b.com,REJECT
 HOST,app-analytics-services.com,REJECT
 HOST,log.snssdk.com,REJECT
 # DIRECT
+host-suffix,mockapi.io,DIRECT
 HOST-KEYWORD, react, DIRECT
 HOST,ant.design, DIRECT
 IP-CIDR, 10.0.0.0/8, DIRECT
