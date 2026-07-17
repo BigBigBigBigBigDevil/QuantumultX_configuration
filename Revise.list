@@ -2,6 +2,8 @@
 IP-ASN,37963,DIRECT
 IP-ASN,45102,DIRECT
 IP-ASN,17839,HK
+IP-ASN,21859,HK
+IP-ASN,135377,HK
 # PROXY
 host-suffix,statusiq.com,HK
 host-suffix,uptimerobot.com,HK
