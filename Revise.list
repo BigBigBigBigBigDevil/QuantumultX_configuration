@@ -116,6 +116,7 @@ HOST,log-api.pangolin-sdk-toutiao-b.com,REJECT
 HOST,app-analytics-services.com,REJECT
 HOST,log.snssdk.com,REJECT
 # DIRECT
+ip-cidr, 8.149.0.0/16, direct
 host-suffix,mockapi.io,DIRECT
 HOST-KEYWORD, react, DIRECT
 HOST,ant.design, DIRECT
