@@ -1,13 +1,5 @@
-# ASN
-IP-ASN,17622,DIRECT
-IP-ASN,4837,DIRECT
-IP-ASN,4134,DIRECT
-IP-ASN,58543,DIRECT
-IP-ASN,37963,DIRECT
-IP-ASN,45102,DIRECT
-IP-ASN,17839,HK
-IP-ASN,21859,HK
-IP-ASN,135377,HK
+# ip-cidr
+ip-cidr,8.149.244.0/24,direct
 # PROXY
 host-suffix,statusiq.com,HK
 host-suffix,uptimerobot.com,HK
@@ -116,7 +108,6 @@ HOST,log-api.pangolin-sdk-toutiao-b.com,REJECT
 HOST,app-analytics-services.com,REJECT
 HOST,log.snssdk.com,REJECT
 # DIRECT
-ip-cidr, 8.149.0.0/16, direct
 host-suffix,mockapi.io,DIRECT
 HOST-KEYWORD, react, DIRECT
 HOST,ant.design, DIRECT
