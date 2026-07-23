@@ -1,4 +1,4 @@
-# ip-cidr
+# IP-CIDR
 IP-CIDR,8.149.244.0/24,DIRECT,no-resolve
 IP-CIDR,103.63.160.0/24,DIRECT,no-resolve
 IP-CIDR,101.50.8.0/24,DIRECT,no-resolve
@@ -83,18 +83,6 @@ host,movieweb.com,HK
 host,i2.wp.com,HK
 host-suffix,moviewebimages.com,HK
 host,m.imdb.com,HK
-# R18
-host,crush91.cc,Medias-US
-host-keyword,javday,Medias-US
-host-suffix,missav.ws,Medias-US
-host-suffix,missav.live,Medias-US
-host,91porn.com,Medias-US
-host,javday.app,Medias-US
-host-suffix,pornhub.com,Medias-US
-host,www.xvideos.com,Medias-US
-host-suffix,xvideos-cdn.com,Medias-US
-host-suffix,jable.tv,Medias-US
-host,javdb.com,Medias-US
 # REJECT
 ## 农行vpn检测
 HOST, msmp.abchina.com.cn, REJECT
