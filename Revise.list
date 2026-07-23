@@ -85,10 +85,10 @@ host,m.imdb.com,HK
 # REJECT
 ## 农行vpn检测
 HOST, msmp.abchina.com.cn, REJECT
-host,us-va.ac.axonixgrid.com,reject
-host-suffix,bjmxy.net,reject
-host-suffix,dahhxxttxs.com,reject
-host-suffix,qrstuvwxyzab.com,reject
+host,us-va.ac.axonixgrid.com,REJECT
+host-suffix,bjmxy.net,REJECT
+host-suffix,dahhxxttxs.com,REJECT
+host-suffix,qrstuvwxyzab.com,REJECT
 host,firebase-settings.crashlytics.com,reject
 host,sdk1xyajs.data.kuiniuca.com,reject
 host,sdkgen.data.tianwenca.com,reject
