@@ -4,84 +4,84 @@ IP-CIDR,103.63.160.0/24,DIRECT,no-resolve
 IP-CIDR,101.50.8.0/24,DIRECT,no-resolve
 IP-CIDR,59.82.133.0/24,DIRECT,no-resolve
 # PROXY
-host-suffix,appstoreprice.org,HK
-host-suffix,statusiq.com,HK
-host-suffix,uptimerobot.com,HK
-host-suffix,simkl.in,HK
-host-suffix,crisp.chat,HK
-host,gallery.scriptable.app,HK
-host,api.introdb.app,HK
-host,api.theintrodb.org,HK
-host,ddgksf2013.top,HK
-host-suffix,ippure.com,HK
-host-suffix,v2ex.com,HK
-host-keyword,liangxin,HK
-host,graphql.anilist.co,HK
-host,flixpatrol.com,HK
-host-suffix,linux.do,HK
-host,www.duyaoss.com,HK
-host-keyword,docker,HK
-host,amz.awsy.top,HK
-host-suffix,nodeseek.com,HK
-host-suffix,haitunt.org,HK
-host,greasyfork.org,HK
-host,streaming-availability.p.rapidapi.com,HK
-host,api.snapkit.com,HK
-host,images-na.ssl-images-amazon.com,HK
-host,unagi.amazon.com,HK
-host-suffix,cloudfront.net,HK
-host,m.media-amazon.com,HK
-host-suffix,imdb.com,HK
-host-suffix,intercom.com,HK
-host,www.kuromis.com,HK
-host-suffix,guatizi.com,HK
-host,cdn.v2ex.com,HK
-host-suffix,duangks.com,HK
-host-suffix,notionusercontent.com,HK
-host-suffix,fileball.app, HK
-host-suffix,quantumult.app,HK
-host,ohttp-relay1.fastly-edge.com,HK
-host-suffix,yfamilys.com,HK
-host,www.videowebdownloader.es,HK
-host,static.zohocdn.com,HK
-host-suffix,algolia.net,HK
-host-suffix,blazingly.io,HK
-host-suffix,zohowebstatic.com,HK
+host-suffix,appstoreprice.org,Final
+host-suffix,statusiq.com,Final
+host-suffix,uptimerobot.com,Final
+host-suffix,simkl.in,Final
+host-suffix,crisp.chat,Final
+host,gallery.scriptable.app,Final
+host,api.introdb.app,Final
+host,api.theintrodb.org,Final
+host,ddgksf2013.top,Final
+host-suffix,ippure.com,Final
+host-suffix,v2ex.com,Final
+host-keyword,liangxin,Final
+host,graphql.anilist.co,Final
+host,flixpatrol.com,Final
+host-suffix,linux.do,Final
+host,www.duyaoss.com,Final
+host-keyword,docker,Final
+host,amz.awsy.top,Final
+host-suffix,nodeseek.com,Final
+host-suffix,haitunt.org,Final
+host,greasyfork.org,Final
+host,streaming-availability.p.rapidapi.com,Final
+host,api.snapkit.com,Final
+host,images-na.ssl-images-amazon.com,Final
+host,unagi.amazon.com,Final
+host-suffix,cloudfront.net,Final
+host,m.media-amazon.com,Final
+host-suffix,imdb.com,Final
+host-suffix,intercom.com,Final
+host,www.kuromis.com,Final
+host-suffix,guatizi.com,Final
+host,cdn.v2ex.com,Final
+host-suffix,duangks.com,Final
+host-suffix,notionusercontent.com,Final
+host-suffix,fileball.app, Final
+host-suffix,quantumult.app,Final
+host,ohttp-relay1.fastly-edge.com,Final
+host-suffix,yfamilys.com,Final
+host,www.videowebdownloader.es,Final
+host,static.zohocdn.com,Final
+host-suffix,algolia.net,Final
+host-suffix,blazingly.io,Final
+host-suffix,zohowebstatic.com,Final
 ## infuse
-HOST, api.adaptytech-alt.com, HK
+HOST, api.adaptytech-alt.com, Final
 HOST, api.ipify.org, REJECT
-HOST, api.adaptytech.com, HK
-HOST-SUFFIX, adapty.io, HK
+HOST, api.adaptytech.com, Final
+HOST-SUFFIX, adapty.io, Final
 # grok
 host-keyword,xai,US
 host-suffix,x.ai,US
 # cdn
-host,cdn.cr-relay.com,HK
+host,cdn.cr-relay.com,Final
 # anti-ad
-host-suffix,anti-ad.net,HK
+host-suffix,anti-ad.net,Final
 # 媒体数据
-host-suffix,media-imdb.com,HK
-host,api.imdbapi.dev,HK
-host-suffix,omdbapi.com,HK
-host-suffix,themoviedb.org,HK
-host-suffix,tmdb.org,HK
-host,ee.iva-api.com,HK
+host-suffix,media-imdb.com,Final
+host,api.imdbapi.dev,Final
+host-suffix,omdbapi.com,Final
+host-suffix,themoviedb.org,Final
+host-suffix,tmdb.org,Final
+host,ee.iva-api.com,Final
 # clash verge wiki
-host-suffix,metacubex.one,HK
+host-suffix,metacubex.one,Final
 # infuse开发者计划
-host-suffix,community.firecore.com,HK
-host-suffix,firecore.com,HK
-host-suffix,zdassets.com,HK
-host-suffix,zendesk.com,HK
+host-suffix,community.firecore.com,Final
+host-suffix,firecore.com,Final
+host-suffix,zdassets.com,Final
+host-suffix,zendesk.com,Final
 # zlibrary
-host-keyword,library,HK
+host-keyword,library,Final
 # sofa time
-host,secure.gravatar.com,HK
-host,film-show-ratings.p.rapidapi.com,HK
-host,movieweb.com,HK
-host,i2.wp.com,HK
-host-suffix,moviewebimages.com,HK
-host,m.imdb.com,HK
+host,secure.gravatar.com,Final
+host,film-show-ratings.p.rapidapi.com,Final
+host,movieweb.com,Final
+host,i2.wp.com,Final
+host-suffix,moviewebimages.com,Final
+host,m.imdb.com,Final
 # REJECT
 ## 农行vpn检测
 HOST, msmp.abchina.com.cn, REJECT
