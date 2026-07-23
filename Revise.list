@@ -60,12 +60,12 @@ host,cdn.cr-relay.com,HK
 # anti-ad
 host-suffix,anti-ad.net,HK
 # 媒体数据
-host-suffix,media-imdb.com,HK
-host,api.imdbapi.dev,HK
-host-suffix,omdbapi.com,HK
-host-suffix,themoviedb.org,HK
-host-suffix,tmdb.org,HK
-host,ee.iva-api.com,HK
+host-suffix,media-imdb.com,Final
+host,api.imdbapi.dev,Final
+host-suffix,omdbapi.com,Final
+host-suffix,themoviedb.org,Final
+host-suffix,tmdb.org,Final
+host,ee.iva-api.com,Final
 # clash verge wiki
 host-suffix,metacubex.one,HK
 # infuse开发者计划
@@ -76,12 +76,12 @@ host-suffix,zendesk.com,HK
 # zlibrary
 host-keyword,library,HK
 # sofa time
-host,secure.gravatar.com,HK
-host,film-show-ratings.p.rapidapi.com,HK
-host,movieweb.com,HK
-host,i2.wp.com,HK
-host-suffix,moviewebimages.com,HK
-host,m.imdb.com,HK
+host,secure.gravatar.com,Final
+host,film-show-ratings.p.rapidapi.com,Final
+host,movieweb.com,Final
+host,i2.wp.com,Final
+host-suffix,moviewebimages.com,Final
+host,m.imdb.com,Final
 # REJECT
 ## 农行vpn检测
 HOST, msmp.abchina.com.cn, REJECT
