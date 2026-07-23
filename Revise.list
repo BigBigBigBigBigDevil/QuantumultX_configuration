@@ -31,8 +31,6 @@ host,images-na.ssl-images-amazon.com,HK
 host,unagi.amazon.com,HK
 host-suffix,cloudfront.net,HK
 host,m.media-amazon.com,HK
-host-suffix,imdb.com,HK
-host-suffix,intercom.com,HK
 host,www.kuromis.com,HK
 host-suffix,guatizi.com,HK
 host,cdn.v2ex.com,HK
@@ -60,6 +58,8 @@ host,cdn.cr-relay.com,HK
 # anti-ad
 host-suffix,anti-ad.net,HK
 # 媒体数据
+host-suffix,imdb.com,Final
+host-suffix,intercom.com,Final
 host-suffix,media-imdb.com,Final
 host,api.imdbapi.dev,Final
 host-suffix,omdbapi.com,Final
