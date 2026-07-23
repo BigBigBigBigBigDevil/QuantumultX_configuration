@@ -4,6 +4,7 @@ IP-CIDR,103.63.160.0/24,DIRECT,no-resolve
 IP-CIDR,101.50.8.0/24,DIRECT,no-resolve
 IP-CIDR,59.82.133.0/24,DIRECT,no-resolve
 # PROXY
+host-suffix,appstoreprice.org,HK
 host-suffix,statusiq.com,HK
 host-suffix,uptimerobot.com,HK
 host-suffix,simkl.in,HK
