@@ -51,8 +51,8 @@ HOST, api.ipify.org, REJECT
 HOST, api.adaptytech.com, HK
 HOST-SUFFIX, adapty.io, HK
 # grok
-host-keyword,xai,US
-host-suffix,x.ai,US
+host-keyword,xai,HK
+host-suffix,x.ai,HK
 # cdn
 host,cdn.cr-relay.com,HK
 # anti-ad
