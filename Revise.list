@@ -1,8 +1,3 @@
-# IP-CIDR
-IP-CIDR,8.149.244.0/24,DIRECT,no-resolve
-IP-CIDR,103.63.160.0/24,DIRECT,no-resolve
-IP-CIDR,101.50.8.0/24,DIRECT,no-resolve
-IP-CIDR,59.82.133.0/24,DIRECT,no-resolve
 # PROXY
 host-suffix,appstoreprice.org,HK
 host-suffix,statusiq.com,HK
@@ -103,11 +98,6 @@ HOST,log.snssdk.com,REJECT
 host-suffix,mockapi.io,DIRECT
 HOST-KEYWORD, react, DIRECT
 HOST,ant.design, DIRECT
-IP-CIDR, 10.0.0.0/8, DIRECT,no-resolve
-IP-CIDR, 127.0.0.0/8, DIRECT,no-resolve
-IP-CIDR, 172.16.0.0/12, DIRECT,no-resolve
-IP-CIDR, 192.168.0.0/16, DIRECT,no-resolve
-IP-CIDR, 224.0.0.0/24, DIRECT,no-resolve
 host,apple-relay.fastly-edge.com,DIRECT
 host,cn1.hcaptcha.com,DIRECT
 host,fixcalendar.pages.dev,DIRECT
