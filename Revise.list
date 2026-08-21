@@ -88,6 +88,8 @@ host,i2.wp.com,HK
 host-suffix,moviewebimages.com,HK
 host,m.imdb.com,HK
 # REJECT
+HOST, xyp-n.kuiniuca.com, REJECT
+HOST-SUFFIX, zztfly.com, REJECT
 ## 农行vpn检测
 HOST, msmp.abchina.com.cn, REJECT
 host,us-va.ac.axonixgrid.com,REJECT
