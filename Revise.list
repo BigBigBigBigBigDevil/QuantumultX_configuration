@@ -1,82 +1,82 @@
 # PROXY
-host-suffix,appstoreprice.org,HK
-host-suffix,statusiq.com,HK
-host-suffix,uptimerobot.com,HK
-host-suffix,simkl.in,HK
-host-suffix,crisp.chat,HK
-host,gallery.scriptable.app,HK
-host,api.introdb.app,HK
-host,api.theintrodb.org,HK
-host,ddgksf2013.top,HK
-host-suffix,ippure.com,HK
-host-suffix,v2ex.com,HK
-host-keyword,liangxin,HK
-host,graphql.anilist.co,HK
-host,flixpatrol.com,HK
-host-suffix,linux.do,HK
-host,www.duyaoss.com,HK
-host-keyword,docker,HK
-host,amz.awsy.top,HK
-host-suffix,nodeseek.com,HK
-host-suffix,haitunt.org,HK
-host,greasyfork.org,HK
-host,streaming-availability.p.rapidapi.com,HK
-host,api.snapkit.com,HK
-host,images-na.ssl-images-amazon.com,HK
-host,unagi.amazon.com,HK
-host-suffix,cloudfront.net,HK
-host,m.media-amazon.com,HK
-host,www.kuromis.com,HK
-host-suffix,guatizi.com,HK
-host,cdn.v2ex.com,HK
-host-suffix,duangks.com,HK
-host-suffix,notionusercontent.com,HK
-host-suffix,fileball.app, HK
-host-suffix,quantumult.app,HK
-host,ohttp-relay1.fastly-edge.com,HK
-host-suffix,yfamilys.com,HK
-host,www.videowebdownloader.es,HK
-host,static.zohocdn.com,HK
-host-suffix,algolia.net,HK
-host-suffix,blazingly.io,HK
-host-suffix,zohowebstatic.com,HK
+host-suffix,appstoreprice.org,🇭🇰
+host-suffix,statusiq.com,🇭🇰
+host-suffix,uptimerobot.com,🇭🇰
+host-suffix,simkl.in,🇭🇰
+host-suffix,crisp.chat,🇭🇰
+host,gallery.scriptable.app,🇭🇰
+host,api.introdb.app,🇭🇰
+host,api.theintrodb.org,🇭🇰
+host,ddgksf2013.top,🇭🇰
+host-suffix,ippure.com,🇭🇰
+host-suffix,v2ex.com,🇭🇰
+host-keyword,liangxin,🇭🇰
+host,graphql.anilist.co,🇭🇰
+host,flixpatrol.com,🇭🇰
+host-suffix,linux.do,🇭🇰
+host,www.duyaoss.com,🇭🇰
+host-keyword,docker,🇭🇰
+host,amz.awsy.top,🇭🇰
+host-suffix,nodeseek.com,🇭🇰
+host-suffix,haitunt.org,🇭🇰
+host,greasyfork.org,🇭🇰
+host,streaming-availability.p.rapidapi.com,🇭🇰
+host,api.snapkit.com,🇭🇰
+host,images-na.ssl-images-amazon.com,🇭🇰
+host,unagi.amazon.com,🇭🇰
+host-suffix,cloudfront.net,🇭🇰
+host,m.media-amazon.com,🇭🇰
+host,www.kuromis.com,🇭🇰
+host-suffix,guatizi.com,🇭🇰
+host,cdn.v2ex.com,🇭🇰
+host-suffix,duangks.com,🇭🇰
+host-suffix,notionusercontent.com,🇭🇰
+host-suffix,fileball.app, 🇭🇰
+host-suffix,quantumult.app,🇭🇰
+host,ohttp-relay1.fastly-edge.com,🇭🇰
+host-suffix,yfamilys.com,🇭🇰
+host,www.videowebdownloader.es,🇭🇰
+host,static.zohocdn.com,🇭🇰
+host-suffix,algolia.net,🇭🇰
+host-suffix,blazingly.io,🇭🇰
+host-suffix,zohowebstatic.com,🇭🇰
 ## infuse
-HOST, api.adaptytech-alt.com, HK
+HOST, api.adaptytech-alt.com, 🇭🇰
 HOST, api.ipify.org, REJECT
-HOST, api.adaptytech.com, HK
-HOST-SUFFIX, adapty.io, HK
+HOST, api.adaptytech.com, 🇭🇰
+HOST-SUFFIX, adapty.io, 🇭🇰
 # grok
 host-keyword,xai,Google
 host-suffix,x.ai,Google
 # cdn
-host,cdn.cr-relay.com,HK
+host,cdn.cr-relay.com,🇭🇰
 # anti-ad
-host-suffix,anti-ad.net,HK
+host-suffix,anti-ad.net,🇭🇰
 # 媒体数据
-host-suffix,imdb.com,HK
-host-suffix,intercom.com,HK
-host-suffix,media-imdb.com,HK
-host,api.imdbapi.dev,HK
-host-suffix,omdbapi.com,HK
-host-suffix,themoviedb.org,HK
-host-suffix,tmdb.org,HK
-host,ee.iva-api.com,HK
+host-suffix,imdb.com,🇭🇰
+host-suffix,intercom.com,🇭🇰
+host-suffix,media-imdb.com,🇭🇰
+host,api.imdbapi.dev,🇭🇰
+host-suffix,omdbapi.com,🇭🇰
+host-suffix,themoviedb.org,🇭🇰
+host-suffix,tmdb.org,🇭🇰
+host,ee.iva-api.com,🇭🇰
 # clash verge wiki
-host-suffix,metacubex.one,HK
+host-suffix,metacubex.one,🇭🇰
 # infuse开发者计划
-host-suffix,community.firecore.com,HK
-host-suffix,firecore.com,HK
-host-suffix,zdassets.com,HK
-host-suffix,zendesk.com,HK
+host-suffix,community.firecore.com,🇭🇰
+host-suffix,firecore.com,🇭🇰
+host-suffix,zdassets.com,🇭🇰
+host-suffix,zendesk.com,🇭🇰
 # zlibrary
-host-keyword,library,HK
+host-keyword,library,🇭🇰
 # sofa time
-host,secure.gravatar.com,HK
-host,film-show-ratings.p.rapidapi.com,HK
-host,movieweb.com,HK
-host,i2.wp.com,HK
-host-suffix,moviewebimages.com,HK
-host,m.imdb.com,HK
+host,secure.gravatar.com,🇭🇰
+host,film-show-ratings.p.rapidapi.com,🇭🇰
+host,movieweb.com,🇭🇰
+host,i2.wp.com,🇭🇰
+host-suffix,moviewebimages.com,🇭🇰
+host,m.imdb.com,🇭🇰
 # REJECT
 HOST, xyp-n.kuiniuca.com, REJECT
 HOST-SUFFIX, zztfly.com, REJECT
