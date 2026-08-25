@@ -46,8 +46,8 @@ HOST, api.ipify.org, REJECT
 HOST, api.adaptytech.com, 🇭🇰
 HOST-SUFFIX, adapty.io, 🇭🇰
 # grok
-host-keyword,xai,Google
-host-suffix,x.ai,Google
+host-keyword,xai,🇺🇸
+host-suffix,x.ai,🇺🇸
 # cdn
 host,cdn.cr-relay.com,🇭🇰
 # anti-ad
