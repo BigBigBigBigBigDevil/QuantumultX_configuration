@@ -77,7 +77,8 @@ host,movieweb.com,⌛️
 host,i2.wp.com,⌛️
 host-suffix,moviewebimages.com,⌛️
 host,m.imdb.com,⌛️
-# REJECT
+#🔴REJECT
+HOST, sdkc.vervegroupinc.net, REJECT
 HOST, api.nextgen.verve.net, REJECT
 HOST, xyp-n.kuiniuca.com, REJECT
 HOST-SUFFIX, zztfly.com, REJECT
