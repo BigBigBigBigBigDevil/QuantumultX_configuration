@@ -1,6 +1,6 @@
-#host,swdist.apple.com,REJECT
-#host,swscan.apple.com,REJECT
-#host,swcdn.apple.com,REJECT
+# HOST, swdist.apple.com, REJECT
+# HOST, swscan.apple.com, REJECT
+# HOST, swcdn.apple.com, REJECT
 HOST, gdmf.apple.com, REJECT
 HOST, mesu.apple.com, REJECT
 HOST, xp.apple.com, REJECT
