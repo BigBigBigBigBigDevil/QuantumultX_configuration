@@ -40,6 +40,15 @@ host,static.zohocdn.com,⌛️
 host-suffix,algolia.net,⌛️
 host-suffix,blazingly.io,⌛️
 host-suffix,zohowebstatic.com,⌛️
+# r18
+HOST, hulubus.com, ⌛️
+HOST, taozibus.com, ⌛️
+HOST-SUFFIX, 18wife.com, ⌛️
+HOST, video.twimg.com, ⌛️
+HOST, bio.linkcdn.cc, ⌛️
+HOST, sapi.instabio.cc, ⌛️
+HOST, pro.ip-api.com, ⌛️
+HOST, static.bad.news, ⌛️
 ## infuse
 HOST, api.adaptytech-alt.com, ⌛️
 HOST, api.ipify.org, REJECT
@@ -98,7 +107,7 @@ host-suffix,wheelroot.com,REJECT
 HOST,log-api.pangolin-sdk-toutiao-b.com,REJECT
 HOST,app-analytics-services.com,REJECT
 HOST,log.snssdk.com,REJECT
-# DIRECT
+#🟢DIRECT
 host-suffix,mockapi.io,DIRECT
 HOST-KEYWORD, react, DIRECT
 HOST,ant.design, DIRECT
