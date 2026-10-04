@@ -1,17 +1,53 @@
 # 原地址 https://github.com/czy13724/Surge/blob/main/Modules/Talkatone.sgmodule
-HOST-SUFFIX,talkatone.com,Talkatone
-HOST-SUFFIX,talkamobile.com,Talkatone
-HOST-SUFFIX,tktn.at,Talkatone
-HOST-SUFFIX,tktn.be,Talkatone
-HOST-SUFFIX,cnt.tktn.be,Talkatone
-HOST-SUFFIX,media.tenor.com,Talkatone
-HOST-SUFFIX,mobilefuse.com,Talkatone
-HOST-SUFFIX,agkn.com,Talkatone
-HOST-SUFFIX,cohere.com,Talkatone
-HOST-SUFFIX,crashlytics.com,Talkatone
-HOST-SUFFIX,inmobi.com,Talkatone
-HOST-SUFFIX,inner-active.mobi,Talkatone
-HOST-SUFFIX,kochava.com,Talkatone
+HOST-SUFFIX,talkatone.com,🇺🇸
+HOST-SUFFIX,talkamobile.com,🇺🇸
+HOST-SUFFIX,tktn.at,🇺🇸
+HOST-SUFFIX,tktn.be,🇺🇸
+HOST-SUFFIX,cnt.tktn.be,🇺🇸
+HOST-SUFFIX,media.tenor.com,🇺🇸
+HOST-SUFFIX,mobilefuse.com,🇺🇸
+HOST-SUFFIX,agkn.com,🇺🇸
+HOST-SUFFIX,cohere.com,🇺🇸
+HOST-SUFFIX,crashlytics.com,🇺🇸
+HOST-SUFFIX,inmobi.com,🇺🇸
+HOST-SUFFIX,inner-active.mobi,🇺🇸
+HOST-SUFFIX,kochava.com,🇺🇸
+
+# https://raw.githubusercontent.com/fmz200/wool_scripts/main/Loon/plugin/blockAds.plugin
+HOST-SUFFIX,tappx.com, REJECT
+HOST-SUFFIX,impression.link, REJECT
+HOST-SUFFIX,jampp.com, REJECT
+HOST-SUFFIX,adrta.com, REJECT
+HOST-SUFFIX,googlesyndication-cn.com, REJECT
+HOST-SUFFIX,doubleclick-cn.net, REJECT
+HOST-SUFFIX,fonts.gstatic.cn, REJECT
+HOST-SUFFIX,pomodoromedia.com, REJECT
+HOST-SUFFIX,zemanta.com, REJECT
+HOST-SUFFIX,mobilefuse.com, REJECT
+HOST-SUFFIX,outbrainimg.com, REJECT
+HOST-SUFFIX,trustarc.com, REJECT
+HOST-SUFFIX,truste.com, REJECT
+HOST-SUFFIX,adsrvr.org, REJECT
+HOST-SUFFIX,outbrain.com, REJECT
+HOST-SUFFIX,inhousedsp.com, REJECT
+HOST-SUFFIX,i.sng.link, REJECT
+HOST-SUFFIX,inner-active.mobi, REJECT
+HOST-SUFFIX,richmob.cn, REJECT
+HOST-SUFFIX,amazon-adsystem.com, REJECT
+HOST-SUFFIX,ads.pubmatic.com, REJECT
+HOST-SUFFIX,bidder.criteo.com, REJECT
+HOST-SUFFIX,gum.criteo.com, REJECT
+HOST-SUFFIX,smaato.net, REJECT
+HOST-SUFFIX,spadsync.com, REJECT
+HOST-SUFFIX,ads.inmobi.com, REJECT
+#HOST-SUFFIX,akamaized.net, REJECT
+HOST-SUFFIX,spadsync.com, REJECT
+HOST-SUFFIX,tpc.googlesyndication.com, REJECT
+HOST-SUFFIX,googleadsserving.cn, REJECT
+HOST-SUFFIX,googleads.g.doubleclick.net, REJECT
+HOST-SUFFIX,inner-active.mobi, REJECT
+HOST-SUFFIX,4dvertible.com, REJECT
+HOST-SUFFIX,smadex.com, REJECT
 
 # >>> 专有广告 <<<
 HOST-SUFFIX,a1.tktn.be,REJECT
