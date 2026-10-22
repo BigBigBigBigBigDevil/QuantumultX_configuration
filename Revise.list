@@ -1,6 +1,6 @@
 # grok
-host-keyword,xai,🇸🇬
-host-suffix,x.ai,🇸🇬
+host-keyword,xai,🌏
+host-suffix,x.ai,🌏
 #🔴REJECT
 HOST, sdkc.vervegroupinc.net, REJECT
 HOST, api.nextgen.verve.net, REJECT
