@@ -2,7 +2,7 @@
   "id": "tf_management_sub",
   "name": "TestFlight 监控管理",
   "description": "监控 TestFlight 的应用列表",
-  "icons": "https://avatars.githubusercontent.com/u/50542287?v=4&size=64",
+  "icons": "https://avatars.githubusercontent.com/u/50542287?v=4",
   "author": "@BigBigBigBigBigDevil",
   "repo": "https://github.com/BigBigBigBigBigDevil/QuantumultX_configuration",
   "apps": [
