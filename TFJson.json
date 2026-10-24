@@ -11,7 +11,6 @@
       "name": "TestFlight 监控管理",
       "keys": [
         "tf_ids",
-        "tf_interval",
         "tf_notify_success"
       ],
       "descs_html": ["配合 Quantumult X 自动加入脚本使用。在下方输入需要监控的 TF ID 即可动态生效。"],
@@ -24,16 +23,9 @@
           "desc": "输入 TestFlight 链接末尾的 ID（如 https://apple.com 则填 ov56HF09）。多个 ID 请用英文逗号(,)隔开。"
         },
         {
-          "id": "tf_interval",
-          "name": "监控轮询间隔（秒）",
-          "val": "60",
-          "type": "number",
-          "desc": "非脚本运行频率，而是发送请求的安全缓冲间隔（单位：秒），防止请求过快被苹果风控。"
-        },
-        {
           "id": "tf_notify_success",
           "name": "名额空缺时通知",
-          "val": false,
+          "val": true,
           "type": "boolean",
           "desc": "名额空缺则提示通知。"
         }
