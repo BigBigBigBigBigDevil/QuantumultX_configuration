@@ -1,14 +1,14 @@
 {
   "id": "tf_management",
-  "name": "TestFlight 监控管理订阅",
+  "name": "TestFlight 监控管理",
   "description": "监控 TestFlight 的应用列表",
   "icons": [],
   "author": "大魔王",
   "repo": "https://raw.githubusercontent.com/BigBigBigBigBigDevil/QuantumultX_configuration/refs/heads/main/TFJson.json",
   "apps": [
     {
-      "id": "TF_AutoJoin",
-      "name": "TestFlight 自动加入",
+      "id": "TF_Monitor",
+      "name": "TestFlight 监控管理",
       "keys": [
         "tf_ids",
         "tf_interval",
