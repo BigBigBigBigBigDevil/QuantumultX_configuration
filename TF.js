@@ -1,4 +1,7 @@
-
+const $.prefs = typeof $prefs !== "undefined" ? $prefs : null;
+const tf_ids = $.prefs ? $.prefs.valueForKey("tf_ids") : "";
+const tf_interval = $.prefs ? $.prefs.valueForKey("tf_interval") : "";
+const tf_notify_success = $.prefs ? $.prefs.valueForKey("tf_notify_success") : "";
 const CONFIG = {
   apps: [
     {
