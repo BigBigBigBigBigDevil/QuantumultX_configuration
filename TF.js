@@ -1,19 +1,8 @@
-const $.prefs = typeof $prefs !== "undefined" ? $prefs : null;
-const tf_ids = $.prefs ? $.prefs.valueForKey("tf_ids") : "";
-const tf_interval = $.prefs ? $.prefs.valueForKey("tf_interval") : "";
-const tf_notify_success = $.prefs ? $.prefs.valueForKey("tf_notify_success") : "";
-const CONFIG = {
-  apps: [
-    {
-      name: "微博",
-	 // url:"https://testflight.apple.com/join/VCIvwk2g"
-      url: "https://testflight.apple.com/join/9GTuC9Ri"
-    }
-  ],
-  // 首次发现空位是否通知
-  notifyFirst: true
-};
-
+let tf_ids = $prefs.valueForKey("tf_ids");
+let tf_notify_success = $prefs.valueForKey("tf_notify_success");
+let ids = tf_ids.split(",");
+let newids = ids.map(item => ({notify:tf_notify_success,name:"",url:"https://testflight.apple.com/join/"+item}));
+if (newids.length > 0) {
 function checkApp(app) {
   return $task.fetch({
     url: app.url,
@@ -27,7 +16,9 @@ function checkApp(app) {
 		const divReg = /<div\s+class=["']beta-status["']>(?:[\s\S]*?<\/div>){2}/i;
 		const match = res.body.match(divReg);
 		if (match[0].includes("TestFlight") == true ) {
-			$notify("TestFlight空位监控", "","完整链接："+app.url,{"open-url":app.url});
+			if (app.notify) {
+				$notify("TestFlight空位监控", "","完整链接："+app.url,{"open-url":app.url});
+			}
 		}
 	}
 	$done();
@@ -36,6 +27,7 @@ function checkApp(app) {
   });
 }
 
-Promise.all(CONFIG.apps.map(checkApp))
+Promise.all(newids.map(checkApp))
   .then(() => $done())
   .catch(() => $done());
+}
