@@ -14,10 +14,11 @@ function checkApp(app) {
   }).then(res => {
 	if (res.statusCode === 200) {
 		const divReg = /<div\s+class=["']beta-status["']>(?:[\s\S]*?<\/div>){2}/i;
+		const titleRegex = /(?<=<title[^>]*>)[\s\S]*?(?=<\/title>)/i;
 		const match = res.body.match(divReg);
 		if (match[0].includes("TestFlight") == true ) {
 			if (app.notify) {
-				$notify("TestFlight空位监控", "","完整链接："+app.url,{"open-url":app.url});
+				$notify("TestFlight空位监控", res.body.match(titleRegex),"完整链接："+app.url,{"open-url":app.url});
 			}
 		}
 	}
