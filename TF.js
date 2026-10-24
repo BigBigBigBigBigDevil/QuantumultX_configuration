@@ -19,7 +19,7 @@ function checkApp(app) {
 		let title = res.body.match(titleRegex)[0];
 		if (match.includes("TestFlight") == true ) {
 			if (JSON.parse(app.notify)==true) {
-				$notify("TestFlight空位监控", title,"完整链接："+app.url,{"open-url":app.url});
+				$notify("TestFlight名额监控", title,"完整链接："+app.url,{"open-url":app.url});
 			}
 		}
 	}
