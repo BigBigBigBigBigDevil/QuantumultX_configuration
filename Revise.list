@@ -24,6 +24,7 @@ HOST,log-api.pangolin-sdk-toutiao-b.com,REJECT
 HOST,app-analytics-services.com,REJECT
 HOST,log.snssdk.com,REJECT
 #🟢DIRECT
+HOST, m.qiyoujiage.com, DIRECT
 HOST,aedns.weixin.qq.com, DIRECT
 HOST,dns.weixin.qq.com.cn, DIRECT
 host-suffix,mockapi.io,DIRECT
