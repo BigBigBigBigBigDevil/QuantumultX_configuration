@@ -24,6 +24,8 @@ HOST,log-api.pangolin-sdk-toutiao-b.com,REJECT
 HOST,app-analytics-services.com,REJECT
 HOST,log.snssdk.com,REJECT
 #🟢DIRECT
+HOST, p9-open-sign.onewsimg.com, DIRECT
+HOST, pingan-static.vhallyun.com,DIRECT
 HOST, m.qiyoujiage.com, DIRECT
 HOST,aedns.weixin.qq.com, DIRECT
 HOST,dns.weixin.qq.com.cn, DIRECT
