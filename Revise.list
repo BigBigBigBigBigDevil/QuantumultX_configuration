@@ -24,7 +24,7 @@ HOST,log-api.pangolin-sdk-toutiao-b.com,REJECT
 HOST,app-analytics-services.com,REJECT
 HOST,log.snssdk.com,REJECT
 #🟢DIRECT
-HOST-SUFFIX, vod.lepudding.com, DIRECT
+HOST-SUFFIX, lepudding.com, DIRECT
 HOST-SUFFIX, icostapp.com, DIRECT
 HOST, p9-open-sign.onewsimg.com, DIRECT
 HOST, pingan-static.vhallyun.com,DIRECT
