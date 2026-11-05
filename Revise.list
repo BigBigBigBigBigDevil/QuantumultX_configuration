@@ -2,6 +2,7 @@
 host-keyword,xai,🌏
 host-suffix,x.ai,🌏
 #🔴REJECT
+HOST, O33249.INGEST.US.SENTRY.IO, REJECT
 HOST, sdkc.vervegroupinc.net, REJECT
 HOST, api.nextgen.verve.net, REJECT
 HOST, xyp-n.kuiniuca.com, REJECT
