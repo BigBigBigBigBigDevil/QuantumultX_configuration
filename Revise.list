@@ -24,7 +24,6 @@ host,client-rapi-missav.recombee.com,REJECT
 host-suffix,wheelroot.com,REJECT
 HOST,log-api.pangolin-sdk-toutiao-b.com,REJECT
 HOST,app-analytics-services.com,REJECT
-HOST,log.snssdk.com,REJECT
 #🟢DIRECT
 HOST-SUFFIX, cmpassport.com, DIRECT
 HOST-SUFFIX, imou.com, DIRECT
