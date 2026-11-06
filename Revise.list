@@ -26,6 +26,7 @@ HOST,log-api.pangolin-sdk-toutiao-b.com,REJECT
 HOST,app-analytics-services.com,REJECT
 HOST,log.snssdk.com,REJECT
 #🟢DIRECT
+HOST-SUFFIX, cmpassport.com, DIRECT
 HOST-SUFFIX, imou.com, DIRECT
 HOST-SUFFIX, lepudding.com, DIRECT
 HOST-SUFFIX, icostapp.com, DIRECT
