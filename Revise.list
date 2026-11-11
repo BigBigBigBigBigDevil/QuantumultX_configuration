@@ -1,6 +1,6 @@
 # grok
-#host-keyword,xai,🌏
-#host-suffix,x.ai,🌏
+host-keyword,xai,🌏
+host-suffix,x.ai,🌏
 #🔴REJECT
 HOST, sd-gl.xinqiucc.com, REJECT
 HOST, cf-gl.qiezibenpao.com,REJECT
