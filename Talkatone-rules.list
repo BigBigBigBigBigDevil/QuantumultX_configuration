@@ -1,17 +1,17 @@
 # 原地址 https://github.com/czy13724/Surge/blob/main/Modules/Talkatone.sgmodule
-HOST-SUFFIX,talkatone.com,🌏
-HOST-SUFFIX,talkamobile.com,🌏
-HOST-SUFFIX,tktn.at,🌏
-HOST-SUFFIX,tktn.be,🌏
-HOST-SUFFIX,cnt.tktn.be,🌏
-HOST-SUFFIX,media.tenor.com,🌏
-HOST-SUFFIX,mobilefuse.com,🌏
-HOST-SUFFIX,agkn.com,🌏
-HOST-SUFFIX,cohere.com,🌏
-HOST-SUFFIX,crashlytics.com,🌏
-HOST-SUFFIX,inmobi.com,🌏
-HOST-SUFFIX,inner-active.mobi,🌏
-HOST-SUFFIX,kochava.com,🌏
+HOST-SUFFIX,talkatone.com,全球
+HOST-SUFFIX,talkamobile.com,全球
+HOST-SUFFIX,tktn.at,全球
+HOST-SUFFIX,tktn.be,全球
+HOST-SUFFIX,cnt.tktn.be,全球
+HOST-SUFFIX,media.tenor.com,全球
+HOST-SUFFIX,mobilefuse.com,全球
+HOST-SUFFIX,agkn.com,全球
+HOST-SUFFIX,cohere.com,全球
+HOST-SUFFIX,crashlytics.com,全球
+HOST-SUFFIX,inmobi.com,全球
+HOST-SUFFIX,inner-active.mobi,全球
+HOST-SUFFIX,kochava.com,全球
 
 # https://raw.githubusercontent.com/fmz200/wool_scripts/main/Loon/plugin/blockAds.plugin
 HOST-SUFFIX,tappx.com, REJECT
