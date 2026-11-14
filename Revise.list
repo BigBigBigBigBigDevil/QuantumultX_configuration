@@ -2,6 +2,7 @@
 host-keyword,xai,全球
 host-suffix,x.ai,全球
 #🔴REJECT
+HOST, hif-dliq.deepseek.com,REJECT
 HOST, sd-gl.xinqiucc.com, REJECT
 HOST, cf-gl.qiezibenpao.com,REJECT
 HOST, O33249.INGEST.US.SENTRY.IO, REJECT
