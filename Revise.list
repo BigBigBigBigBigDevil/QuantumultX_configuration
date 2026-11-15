@@ -10,7 +10,7 @@ HOST, sdkc.vervegroupinc.net, REJECT
 HOST, api.nextgen.verve.net, REJECT
 HOST, xyp-n.kuiniuca.com, REJECT
 HOST-SUFFIX, zztfly.com, REJECT
-# talkaton
+# talkatone
 # https://raw.githubusercontent.com/fmz200/wool_scripts/main/Loon/plugin/blockAds.plugin
 HOST-SUFFIX,tappx.com, REJECT
 HOST-SUFFIX,impression.link, REJECT
